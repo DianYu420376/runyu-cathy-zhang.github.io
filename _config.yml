@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Runyu (Cathy) Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student"
+  bio              : "Reinforcement learning, Control theory, Machine learning, Mutli-agent Systems"
   location         : "150 Western Ave, Cambridge MA, 02134, USA"
   employer         : "Harvard University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/DianYu420376"
+  github           : "DianYu420376"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
