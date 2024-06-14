@@ -20,4 +20,7 @@ Price of Anarchy and Sample Complexity](https://arxiv.org/abs/2304.03840)<br> **
  <br> *Learning
 for Dynamics and Control Conference (L4DC), 2023*
 - [On the Optimal Control of Network LQR with Spatially-exponential Decaying
-Structure]()<br>  **Runyu Zhang**, Weiyu Li, Na Li *American Control Conference (ACC), 2023* (Preparing for Journal Submission)
+Structure](https://arxiv.org/abs/2209.14376)<br>  **Runyu Zhang**, Weiyu Li, Na Li <br> *American Control Conference (ACC), 2023* (Preparing for Journal Submission)
+- [“On the Relationship of Optimal State Feedback and Disturbance Response
+Controllers](https://arxiv.org/abs/2304.03831)<br>  **Runyu Zhang**, Yang Zheng, Weiyu Li, Na Li <br> *International Federation of Automatic Control (IFAC), 2023*
+- 
