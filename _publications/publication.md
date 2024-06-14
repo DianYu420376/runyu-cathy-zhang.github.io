@@ -1,4 +1,6 @@
 ---
+
+---
 - [Equilibrium Selection for Multi-agent Reinforcement Learning: A Unified Framework](https://arxiv.org/abs/2406.08844) <br> **Runyu Zhang**, Jeff Shamma, Na Li <br> *Under Review*
 - [Multi-Agent Coverage Control with Transient Behavior Consideration](https://arxiv.org/abs/2404.05995) <br> **Runyu Zhang**, Haitong Ma, Na Li <br> *Learning
 for Dynamics and Control Conference (L4DC), 2024*
@@ -14,4 +16,8 @@ Analysis
 - [Markov Games with Decoupled Dynamics:
 Price of Anarchy and Sample Complexity](https://arxiv.org/abs/2304.03840)<br> **Runyu Zhang**, Yuyang Zhang, Rohit Konda, Bryce Ferguson, Jason Marden, Na Li
  <br> *Conference on Decision and Control (CDC), 2023*
----
+- [Multi-agent Reinforcement Learning with Reward Delays](https://arxiv.org/abs/2212.01441)<br> Yuyang Zhang, **Runyu Zhang**, Yuantao Gu, Na Li
+ <br> *Learning
+for Dynamics and Control Conference (L4DC), 2023*
+- [On the Optimal Control of Network LQR with Spatially-exponential Decaying
+Structure]()<br>  **Runyu Zhang**, Weiyu Li, Na Li *American Control Conference (ACC), 2023* (Preparing for Journal Submission)
