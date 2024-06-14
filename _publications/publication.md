@@ -4,3 +4,11 @@
 for Dynamics and Control Conference (L4DC), 2024*
 - [Soft Robust MDPs and Risk-Sensitive MDPs: Equivalence, Policy Gradient, and
 Sample Complexity](https://arxiv.org/abs/2306.11626) <br> **Runyu Zhang**, Yang Hu, Na Li <br> *International Conference on Learning Representations (ICLR), 2024*
+- [Scalable Reinforcement Learning for Linear-Quadratic Control of Networks
+](https://arxiv.org/abs/2401.16183) <br> Johan Olsson, **Runyu Zhang**, Emma Tegling, Na Li
+ <br> *American Control Conference (ACC), 2024*
+- [Cooperative Multi-Agent Graph Bandits: UCB Algorithm and Regret
+Analysis
+](https://arxiv.org/abs/2401.10383) <br> Johan Olsson, **Runyu Zhang**, Emma Tegling, Na Li
+ <br> *American Control Conference (ACC), 2024*
+- 
