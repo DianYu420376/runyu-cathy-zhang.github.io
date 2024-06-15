@@ -22,7 +22,7 @@ Recent Updates
 </span>
 <span style="color: #4F81BD;">Apr 14, 2024</span>  <span>Our paper is accepted to ICML. The paper... 
 </span>
-<span style="color: #4F81BD;">Apr 14, 2024</span>  <span>Two papers are accepted to American Control Conference (ACC)!
+<span style="color: #4F81BD;">Apr 8, 2024</span>  <span>Two papers are accepted to American Control Conference (ACC)!
 </span>
 <span style="color: #4F81BD;">Apr 14, 2023</span>  <span> Our paper "Multi-agent Reinforcement Learning with Reward Delays" is accepted to Learning for Dynamics and Control Conference (L4DC)!
 </span>
