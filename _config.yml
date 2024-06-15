@@ -21,7 +21,7 @@ repository               : "DianYu420376/runyu-cathy-zhang.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Runyu (Cathy) Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Reinforcement learning, Control theory, Machine learning, Mutli-agent Systems"
