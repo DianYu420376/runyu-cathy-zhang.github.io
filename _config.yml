@@ -12,7 +12,7 @@ title                    : "Runyu (Cathy) Zhang"
 title_separator          : "-"
 name                     : &name "Runyu (Cathy) Zhang"
 description              : &description "personal description"
-url                      : https://dianyu420376.github.io/runyu-cathy-zhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dianyu420376.github.io/runyu-cathy-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DianYu420376/runyu-cathy-zhang.github.io/"
 
