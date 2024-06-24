@@ -8,7 +8,7 @@ author_profile: true
 Topic 1: Distributed Control of Network Systems
 ----
 <div style="float: left; margin-right: 20px;">
-<img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/distributed-control.png" alt="distributed-control-illustration" width="500px" height="auto">
+<img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/distributed-control.png" alt="distributed-control-illustration" width="600px" height="auto">
 </div>
 
 Limited by the sensing and communication capability, in many multi-agent systems, agents must decide their local actions based on local information. This calls for the design of distributed local rules for individual agents to achieve desirable global behavior.
