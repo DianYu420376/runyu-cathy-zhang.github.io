@@ -19,16 +19,22 @@ In this setting, it is
 
 <div style="display: flex; align-items: center;">
     <img src="https://example.com/path-to-your-image.jpg" alt="Description of Picture A" style="width: 200px; height: auto;">
-    <p style="margin-left: 20px;">
-
-- [Scalable Reinforcement Learning for Linear-Quadratic Control of Networks
-](https://arxiv.org/abs/2401.16183) <br> Johan Olsson, **Runyu Zhang**, Emma Tegling, Na Li
- <br> *American Control Conference (ACC), 2024*
-- [On the Optimal Control of Network LQR with Spatially-exponential Decaying
-Structure](https://arxiv.org/abs/2209.14376)<br>  **Runyu Zhang**, Weiyu Li, Na Li <br> *American Control Conference (ACC), 2023* (Preparing for Journal Submission)
-
-</p>
+    <div style="margin-left: 20px;">
+        <ul>
+            <li>
+                <a href="https://arxiv.org/abs/2401.16183" target="_blank">Scalable Reinforcement Learning for Linear-Quadratic Control of Networks</a>
+                <br> Johan Olsson, <strong>Runyu Zhang</strong>, Emma Tegling, Na Li
+                <br> <em>American Control Conference (ACC), 2024</em>
+            </li>
+            <li>
+                <a href="https://arxiv.org/abs/2209.14376" target="_blank">On the Optimal Control of Network LQR with Spatially-exponential Decaying Structure</a>
+                <br> <strong>Runyu Zhang</strong>, Weiyu Li, Na Li
+                <br> <em>American Control Conference (ACC), 2023</em> (Preparing for Journal Submission)
+            </li>
+        </ul>
+    </div>
 </div>
+
 
 <div style="display: flex; align-items: center;">
     <img src="https://example.com/path-to-your-image.jpg" alt="drone gif" style="width: 200px; height: auto;">
