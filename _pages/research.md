@@ -57,7 +57,8 @@ Topic 2: Multi-agent Reinforcement Learning
 <div style="float: left; margin-right: 20px;">
     <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/multi-agent-RL.png" alt="Multi-agent-RL" style="width: 200px; height: auto;">
 </div>
-Description to be added. 
+My research is primarily centered on multi-agent reinforcement learning (MARL), a cutting-edge domain that intersects artificial intelligence and control systems. I am particularly intrigued by the complexities and potential of MARL in decentralized environments where multiple agents interact, learn, and collaborate to achieve common or competing goals. My work explores the dynamic challenges of coordination and optimization in multi-agent systems, focusing on scalable algorithms and robust control strategies that can efficiently manage the high-dimensional, stochastic nature of real-world applications. I aim to develop novel MARL methodologies that enhance the adaptability and resilience of intelligent systems in areas such as autonomous systems, networked control, and large-scale industrial automation.
+
 
 
 
