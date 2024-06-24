@@ -39,8 +39,8 @@ My research focuses on the distributed control of network systems, a critical ar
 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/drone-demo.gif" alt="drone gif" style="width: 300px; height: auto;">
-    <div style="margin-left: 0px;">
+    <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/drone-demo.gif" alt="drone gif" style="width: 250px; height: auto;">
+    <div style="margin-left: 50px;">
         <ul>
             <li>
                 <a href="https://arxiv.org/abs/2404.05995" target="_blank">Multi-Agent Coverage Control with Transient Behavior Consideration</a>
