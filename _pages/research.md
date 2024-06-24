@@ -20,7 +20,7 @@ My research focuses on the distributed control of network systems, a critical ar
 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://example.com/path-to-your-image.jpg" alt="Description of Picture A" style="width: 200px; height: auto;">
+    <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/SED-LQR.png" alt="SED-LQR" style="width: 200px; height: auto;">
     <div style="margin-left: 20px;">
         <ul>
             <li>
@@ -39,7 +39,7 @@ My research focuses on the distributed control of network systems, a critical ar
 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://drive.google.com/file/d/1lHsuUGSEWTr31HJeAyr_8lJps9H0QSiI/view?usp=sharing" alt="drone gif" style="width: 200px; height: auto;">
+    <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/drone-demo.gif" alt="drone gif" style="width: 200px; height: auto;">
     <p style="margin-left: 20px;">
 
 - [Scalable Reinforcement Learning for Linear-Quadratic Control of Networks
