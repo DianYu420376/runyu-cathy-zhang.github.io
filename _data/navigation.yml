@@ -17,7 +17,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    URL: https://dianyu420376.github.io/runyu-cathy-zhang.github.io/files/cathy-cv.pdf
+    URL: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
