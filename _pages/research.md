@@ -7,12 +7,14 @@ author_profile: true
 
 Topic 1: Distributed Control of Network Systems
 ----
-<p align="center">
-<img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/distributed-control.png" alt="distributed-control-illustration" width="700" height="auto">
-</p>
+<div style="float: left; margin-right: 20px;">
+<img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/distributed-control.png" alt="distributed-control-illustration" width="400" height="auto">
+</div>
 
 Limited by the sensing and communication capability, in many multi-agent systems, agents must decide their local actions based on local information. This calls for the design of distributed local rules for individual agents to achieve desirable global behavior.
 In this setting, it is 
+
+My research focuses on the distributed control of network systems, a critical area that addresses the complexities of managing and optimizing interconnected systems in a decentralized manner. This field explores how multiple controllers, often geographically dispersed, can collaboratively achieve global objectives by only sharing local information and relying on limited communication. I am particularly interested in the development of scalable and robust control algorithms that ensure stability and performance in the face of dynamic and uncertain environments. My work delves into the challenges of coordinating actions across a network of agents or subsystems, emphasizing the importance of designing control strategies that are resilient to failures and adaptable to changing conditions. By leveraging advanced techniques in control theory, optimization, and network theory, my research aims to enhance the efficiency and reliability of applications ranging from smart grids and automated transportation systems to large-scale industrial processes and sensor networks.
 
 ### Selected publications:
 
