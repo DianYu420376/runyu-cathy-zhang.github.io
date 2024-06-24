@@ -37,7 +37,7 @@ In this setting, it is
 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://example.com/path-to-your-image.jpg" alt="drone gif" style="width: 200px; height: auto;">
+    <img src="https://drive.google.com/file/d/1lHsuUGSEWTr31HJeAyr_8lJps9H0QSiI/view?usp=sharing" alt="drone gif" style="width: 200px; height: auto;">
     <p style="margin-left: 20px;">
 
 - [Scalable Reinforcement Learning for Linear-Quadratic Control of Networks
