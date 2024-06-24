@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Runyu (Cathy)!"
+title: "👋 Hello there, I'm Runyu (Cathy) 😸!"
 author_profile: true
 redirect_from: 
   - /about/
