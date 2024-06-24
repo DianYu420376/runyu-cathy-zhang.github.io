@@ -11,7 +11,6 @@ Welcome to my website! I am Runyu (Cathy) Zhang, a fifth year Ph.D. candidate in
 
 My research interest lies in learning, control and decision making in multi-agent systems. The high-level objective is to design scalable, efficient and provable learning/control algorithms for multi-agent systems under challenges such as communication constraints, strategic behavior and model uncertainty. My research sits at the intersection of various domains, utilizing tools from reinforcement learning (RL), game theory, control theory and optimization. As an ultimate goal, my research is dedicated to providing both theoretical insights and engineering tools for AI-enabled multi-agent societal systems design and operation. For more detailed research projects and research interests please refer to the research tab and publication tab. (TODO)
 
-![distributed control illustration](/images/bio-photo-2.jpg) 
 
 
 Recent Updates
