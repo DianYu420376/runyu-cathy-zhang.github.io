@@ -55,7 +55,8 @@ Topic 2: Multi-agent Reinforcement Learning
 <div style="float: left; margin-right: 20px;">
     <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/multi-agent-RL.png" alt="Multi-agent-RL" style="width: 200px; height: auto;">
 </div>
-Description to be added
+
+Description to be added. 
 
 Topic 3:  Robust/Risk-sensitive Reinforcement Learning
 ----
