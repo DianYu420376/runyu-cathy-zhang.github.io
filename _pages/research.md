@@ -43,18 +43,14 @@ My research focuses on the distributed control of network systems, a critical ar
     <div style="margin-left: 0px;">
         <ul>
             <li>
-                <a href="https://arxiv.org/abs/2401.16183" target="_blank">Scalable Reinforcement Learning for Linear-Quadratic Control of Networks</a>
-                <br> Johan Olsson, <strong>Runyu Zhang</strong>, Emma Tegling, Na Li
-                <br> <em>American Control Conference (ACC), 2024</em>
-            </li>
-            <li>
-                <a href="https://arxiv.org/abs/2209.14376" target="_blank">On the Optimal Control of Network LQR with Spatially-exponential Decaying Structure</a>
-                <br> <strong>Runyu Zhang</strong>, Weiyu Li, Na Li
-                <br> <em>American Control Conference (ACC), 2023</em> (Preparing for Journal Submission)
+                <a href="https://arxiv.org/abs/2404.05995" target="_blank">Multi-Agent Coverage Control with Transient Behavior Consideration</a>
+                <br> <strong>Runyu Zhang</strong>, Haitong Ma, Na Li
+                <br> <em>Learning for Dynamics and Control Conference (L4DC), 2024</em>
             </li>
         </ul>
     </div>
 </div>
+
 
 Topic 2: Multi-agent Reinforcement Learning
 ----
