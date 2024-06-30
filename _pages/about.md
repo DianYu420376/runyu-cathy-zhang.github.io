@@ -16,19 +16,18 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-<span style="color: #4F81BD;">June, 2024</span>  <span>Check out our new paper: <a href="https://arxiv.org/abs/2406.08844">Equilibrium Selection for Multi-agent Reinforcement Learning </a>!
+<span style="color: #4F81BD;">June 2024</span>  <span>Check out our new paper: <a href="https://arxiv.org/abs/2406.08844">Equilibrium Selection for Multi-agent Reinforcement Learning</a>!
 </span>
-<span style="color: #4F81BD;">Apr 14, 2024</span>  <span>Our paper is accepted to Transaction of Automatic Control (TAC)! 
+<span style="color: #4F81BD;">Apr 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2404.05995">Multi-Agent Coverage Control with Transient Behavior Consideration
+</a> is accepted to L4DC. The paper provides a provably efficient algorithm for coverage control of multi-robot systems in unknown environments. Feel free to check it out! 
 </span>
-<span style="color: #4F81BD;">Apr 14, 2024</span>  <span>Our paper is accepted to L4DC. The paper provides a provably efficient algorithm for coverage control of multi-robot systems in unknown environments. Feel free to check it out! 
+<span style="color: #4F81BD;">Feb 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2106.00198">Gradient play in stochastic games: stationary points, convergence, and
+sample complexity</a> is accepted to Transaction of Automatic Control (TAC)! 
 </span>
-<span style="color: #4F81BD;">Apr 14, 2024</span>  <span>Our paper is accepted to ICML. The paper... 
+
+<span style="color: #4F81BD;">Jan 2024</span>  <span>Our paper is accepted to ICLR.  
 </span>
-<span style="color: #4F81BD;">Apr 8, 2024</span>  <span>Two papers are accepted to American Control Conference (ACC)!
-</span>
-<span style="color: #4F81BD;">Apr 14, 2023</span>  <span> Our paper "Multi-agent Reinforcement Learning with Reward Delays" is accepted to Learning for Dynamics and Control Conference (L4DC)!
-</span>
-<span style="color: #4F81BD;">Apr 14, 2023</span>  <span> Our paper is accepted to Building and Environment!
+<span style="color: #4F81BD;">Jan 2024</span>  <span>Two papers are accepted to American Control Conference (ACC)!
 </span>
 <span style="color: #4F81BD;">Apr 14, 2023</span>  <span> Our paper "Price of Anarchy and Sample Complexity" is accepted to Conference on Decision and Control (CDC)!
 </span>
