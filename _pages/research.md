@@ -107,7 +107,7 @@ Topic 3:  Robust, Risk-sensitive and Safe Reinforcement Learning
 <div style="float: left; margin-right: 20px;">
     <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/risk-sensitive-RL.png" alt="Multi-agent-RL" style="width: 450px; height: auto;">
 </div>
-Robustness, risk-sensitivity and safety are desired properties for tasks such as online decision making and controlling dynamical systems, especially in the face of model uncertainty or estimation errors. I'm actively exploring the possibility of sample efficient practical algorithms that embody these desired properties. Further, I am also interested in extending these principles to multi-agent reinforcement learning (RL), where robustness is even more critical due to the added complexity of interactions among multiple agents. ![image](https://github.com/DianYu420376/runyu-cathy-zhang.github.io/assets/33091525/1e5174b2-9628-4dc3-8e41-ac2080ca226a)
+Robustness, risk-sensitivity and safety are desired properties for tasks such as online decision making and controlling dynamical systems, especially in the face of model uncertainty or estimation errors. I'm actively exploring the possibility of sample efficient practical algorithms that embody these desired properties. Further, I am also interested in extending these principles to multi-agent reinforcement learning (RL), where robustness is even more critical due to the added complexity of interactions among multiple agents. 
 
 ### Selected publications:
 
