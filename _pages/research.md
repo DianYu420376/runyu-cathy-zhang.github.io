@@ -11,10 +11,10 @@ Topic 1: Distributed Control of Network Systems
 <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/distributed-control.png" alt="distributed-control-illustration" width="600px" height="auto">
 </div>
 
-Limited by the sensing and communication capability, in many multi-agent systems, agents must decide their local actions based on local information. This calls for the design of distributed local rules for individual agents to achieve desirable global behavior.
-In this setting, it is 
-
-My research focuses on the distributed control of network systems, a critical area that addresses the complexities of managing and optimizing interconnected systems in a decentralized manner. This field explores how multiple controllers, often geographically dispersed, can collaboratively achieve global objectives by only sharing local information and relying on limited communication. I am particularly interested in the development of scalable and robust control algorithms that ensure stability and performance in the face of dynamic and uncertain environments. My work delves into the challenges of coordinating actions across a network of agents or subsystems, emphasizing the importance of designing control strategies that are resilient to failures and adaptable to changing conditions. By leveraging advanced techniques in control theory, optimization, and network theory, my research aims to enhance the efficiency and reliability of applications ranging from smart grids and automated transportation systems to large-scale industrial processes and sensor networks.
+Limited by the sensing and communication capability, in many multi-agent systems, agents must decide their local actions based on local information. My research focuses on the distributed learning and control of network systems, which explores how multiple controllers, often geographically dispersed within a network, can collaboratively achieve global objectives by only sharing local information and relying on limited communication. By leveraging advanced techniques in control theory, optimization, and network theory, my research aims to enhance the efficiency and reliability of applications ranging from smart grids and automated transportation systems to large-scale industrial processes and sensor networks. Some specific topics that I am now particularly interested in includes
+	- Better theoretical understanding of the limitation and capability of distributed controller (e.g. what is the optimality gap between distributed local controllers and the optimal global controller?)
+	- Practical distributed control/learning algorithm design for network systems (e.g. robotic swarms, power system)
+	- Integrating control and learning (e.g. can we jointly learn a good communication and distributed control policy?)
 
 ### Selected publications:
 
@@ -59,7 +59,9 @@ Topic 2: Multi-agent Reinforcement Learning
 <div style="float: left; margin-right: 20px;">
     <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/multi-agent-RL.png" alt="Multi-agent-RL" style="width: 300px; height: auto;">
 </div>
-My research is primarily centered on multi-agent reinforcement learning (MARL), a cutting-edge domain that intersects artificial intelligence and control systems. I am particularly intrigued by the complexities and potential of MARL in decentralized environments where multiple agents interact, learn, and collaborate to achieve common or competing goals. My work explores the dynamic challenges of coordination and optimization in multi-agent systems, focusing on scalable algorithms and robust control strategies that can efficiently manage the high-dimensional, stochastic nature of real-world applications. I aim to develop novel MARL methodologies that enhance the adaptability and resilience of intelligent systems in areas such as autonomous systems, networked control, and large-scale industrial automation.
+
+Unlike single-agent RL, multi-agent RL deals with multiple agents interacting in a shared, dynamic setting. This introduces unique challenges such as the need for coordination, dealing with non-stationary environments due to other learning agents, and handling the complexity of strategic interactions. Studying multi-agent RL is crucial for advancing our understanding of systems where autonomous agents must learn to coexist, compete, or collaborate, such as in autonomous vehicle fleets, and complex resource management scenarios. The key question that I try to answer is how to encourage collaborative behavior in the face of these above challenges.
+
 
 ### Selected publications:
 
@@ -100,12 +102,12 @@ Framework and Faster Convergence</a>
 </div>
 
 
-Topic 3:  Robust/Risk-sensitive Reinforcement Learning
+Topic 3:  Robust, Risk-sensitive and Safe Reinforcement Learning
 ----
 <div style="float: left; margin-right: 20px;">
     <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/risk-sensitive-RL.png" alt="Multi-agent-RL" style="width: 450px; height: auto;">
 </div>
-My research is primarily centered on multi-agent reinforcement learning (MARL), a cutting-edge domain that intersects artificial intelligence and control systems. I am particularly intrigued by the complexities and potential of MARL in decentralized environments where multiple agents interact, learn, and collaborate to achieve common or competing goals. My work explores the dynamic challenges of coordination and optimization in multi-agent systems, focusing on scalable algorithms and robust control strategies that can efficiently manage the high-dimensional, stochastic nature of real-world applications. I aim to develop novel MARL methodologies that enhance the adaptability and resilience of intelligent systems in areas such as autonomous systems, networked control, and large-scale industrial automation.
+Robustness, risk-sensitivity and safety are desired properties for tasks such as online decision making and controlling dynamical systems, especially in the face of model uncertainty or estimation errors. I'm actively exploring the possibility of sample efficient practical algorithms that embody these desired properties. Further, I am also interested in extending these principles to multi-agent reinforcement learning (RL), where robustness is even more critical due to the added complexity of interactions among multiple agents. ![image](https://github.com/DianYu420376/runyu-cathy-zhang.github.io/assets/33091525/1e5174b2-9628-4dc3-8e41-ac2080ca226a)
 
 ### Selected publications:
 
