@@ -16,7 +16,7 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-<span style="color: #4F81BD;">Apr 14, 2024</span>  <span>Check out our new paper! The paper studies equilibrium selection for multi-agent RL... 
+<span style="color: #4F81BD;">June, 2024</span>  <span>Check out our new paper: [Equilibrium Selection for Multi-agent Reinforcement Learning: A Unified Framework](https://arxiv.org/abs/2406.08844)! 
 </span>
 <span style="color: #4F81BD;">Apr 14, 2024</span>  <span>Our paper is accepted to Transaction of Automatic Control (TAC)! 
 </span>
