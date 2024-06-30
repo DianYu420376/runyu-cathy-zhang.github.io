@@ -12,9 +12,9 @@ Topic 1: Distributed Control of Network Systems
 </div>
 
 Limited by the sensing and communication capability, in many multi-agent systems, agents must decide their local actions based on local information. My research focuses on the distributed learning and control of network systems, which explores how multiple controllers, often geographically dispersed within a network, can collaboratively achieve global objectives by only sharing local information and relying on limited communication. By leveraging advanced techniques in control theory, optimization, and network theory, my research aims to enhance the efficiency and reliability of applications ranging from smart grids and automated transportation systems to large-scale industrial processes and sensor networks. Some specific topics that I am now particularly interested in includes
-	- Better theoretical understanding of the limitation and capability of distributed controller (e.g. what is the optimality gap between distributed local controllers and the optimal global controller?)
-	- Practical distributed control/learning algorithm design for network systems (e.g. robotic swarms, power system)
-	- Integrating control and learning (e.g. can we jointly learn a good communication and distributed control policy?)
+- Better theoretical understanding of the limitation and capability of distributed controller (e.g. what is the optimality gap between distributed local controllers and the optimal global controller?)
+- Practical distributed control/learning algorithm design for network systems (e.g. robotic swarms, power system)
+- Integrating control and learning (e.g. can we jointly learn a good communication and distributed control policy?)
 
 ### Selected publications:
 
