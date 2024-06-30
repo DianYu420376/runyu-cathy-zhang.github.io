@@ -27,14 +27,14 @@ sample complexity</a> is accepted to Transaction of Automatic Control (TAC)!
 
 <span style="color: #4F81BD;">Jan 2024</span>  <span>Our paper is accepted to ICLR.  
 </span>
-<span style="color: #4F81BD;">Jan 2024</span>  <span>Two papers are accepted to American Control Conference (ACC)!
+<span style="color: #4F81BD;">Jan 2024</span>  <span>Two papers are accepted to the American Control Conference (ACC)!
 </span>
-<span style="color: #4F81BD;">Apr 14, 2023</span>  <span> Our paper "Price of Anarchy and Sample Complexity" is accepted to Conference on Decision and Control (CDC)!
+<span style="color: #4F81BD;">July 2023</span>  <span> Our paper "Price of Anarchy and Sample Complexity" is accepted to the Conference on Decision and Control (CDC)!
 </span>
-<span style="color: #4F81BD;">Apr 14, 2023</span>  <span> Our paper "On the Optimal Control of Network LQR with Spatially-exponential Decaying
-Structure" is accepted to American Control Conference (ACC)! The paper talks about .... We are in preparation for a journal version as well! 
+<span style="color: #4F81BD;">Jan 2023</span>  <span> Our paper (one of my favorite works!) "On the Optimal Control of Network LQR with Spatially-exponential Decaying
+Structure" is accepted to the American Control Conference (ACC)! We are in preparation for a journal version as well. Feel free to check it out!!
 </span>
-<span style="color: #4F81BD;">Apr 14, 2022</span>  <span> Two papers on multi-agent RL is accepted to NeurIPS! See you in New Orleans!
+<span style="color: #4F81BD;">Sep 2022</span>  <span> Two papers on multi-agent RL is accepted to NeurIPS! See you in New Orleans!
 </span>
 </div>
 
