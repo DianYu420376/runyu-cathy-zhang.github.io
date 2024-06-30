@@ -7,7 +7,7 @@ author_profile: true
 
 Topic 1: Distributed Control of Network Systems
 ----
-<div style="float: left; margin-right: 20px;">
+<div style="float: left; margin-right: 20px; margin-down:20px">
 <img src="https://dianyu420376.github.io/runyu-cathy-zhang.github.io/images/distributed-control.png" alt="distributed-control-illustration" width="600px" height="auto">
 </div>
 
