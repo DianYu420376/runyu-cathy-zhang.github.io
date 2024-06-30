@@ -26,7 +26,7 @@ sample complexity</a> is accepted to Transaction of Automatic Control (TAC)!
 </span>
 <span style="color: #4F81BD;">Jan 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2306.11626">Soft Robust MDPs and Risk-Sensitive MDPs: Equivalence, Policy Gradient, and Sample Complexity</a> is accepted to ICLR.  
 </span>
-<span style="color: #4F81BD;">Jan 2024</span>  <span>Two papers are accepted to the American Control Conference (ACC)! Check them out <a> href="https://arxiv.org/abs/2401.16183"here<\a> and <a> href="https://arxiv.org/abs/2401.10383"here<\a>.
+<span style="color: #4F81BD;">Jan 2024</span>  <span>Two papers are accepted to the American Control Conference (ACC)! Check them out <a href="https://arxiv.org/abs/2401.16183">here<\a> and <a href="https://arxiv.org/abs/2401.10383">here<\a>.
 </span>
 <span style="color: #4F81BD;">July 2023</span>  <span> Our paper  <a href="https://arxiv.org/abs/2304.03840">Markov Games with Decoupled Dynamics: Price of Anarchy and Sample Complexity
 </a> is accepted to the Conference on Decision and Control (CDC)!
@@ -34,7 +34,7 @@ sample complexity</a> is accepted to Transaction of Automatic Control (TAC)!
 <span style="color: #4F81BD;">Jan 2023</span>  <span> Our paper (one of my favorite works!) <a href="https://arxiv.org/abs/2209.14376">On the Optimal Control of Network LQR with Spatially-exponential Decaying
 Structure</a> is accepted to the American Control Conference (ACC)! We are in preparation for a journal version as well. Feel free to check it out!!
 </span>
-<span style="color: #4F81BD;">Sep 2022</span>  <span> Two papers on multi-agent RL is accepted to NeurIPS! See you in New Orleans! Check them out <a> href="https://arxiv.org/abs/2202.00872"here<\a> (Markov potential games) and <a> href="https://arxiv.org/abs/2206.02640"here<\a> (two-player zero-sum games).
+<span style="color: #4F81BD;">Sep 2022</span>  <span> Two papers on multi-agent RL is accepted to NeurIPS! See you in New Orleans! Check them out <a href="https://arxiv.org/abs/2202.00872">here<\a> (Markov potential games) and <a href="https://arxiv.org/abs/2206.02640">here<\a> (two-player zero-sum games).
 </span>
 </div>
 
