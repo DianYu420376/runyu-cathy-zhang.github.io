@@ -24,7 +24,7 @@ Sample Complexity](https://arxiv.org/abs/2306.11626) <br> **Runyu Zhang**, Yang 
  <br> *American Control Conference (ACC), 2024*
 - [Cooperative Multi-Agent Graph Bandits: UCB Algorithm and Regret
 Analysis
-](https://arxiv.org/abs/2401.10383) <br> Johan Olsson, **Runyu Zhang**, Emma Tegling, Na Li
+](https://arxiv.org/abs/2401.10383) <br> Phevos Paschalidis, **Runyu Zhang**, Na Li
  <br> *American Control Conference (ACC), 2024*
 - [Markov Games with Decoupled Dynamics:
 Price of Anarchy and Sample Complexity](https://arxiv.org/abs/2304.03840)<br> **Runyu Zhang**, Yuyang Zhang, Rohit Konda, Bryce Ferguson, Jason Marden, Na Li
