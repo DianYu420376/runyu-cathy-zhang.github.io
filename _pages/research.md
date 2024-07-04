@@ -72,7 +72,7 @@ Unlike single-agent RL, multi-agent RL deals with multiple agents interacting in
         <ul>
             <li>
                 <a href="https://arxiv.org/pdf/2106.00198" target="_blank">Gradient Play in Stochastic Games: Stationary Points and Local Geometry</a>
-                <br> Johan Olsson, <strong>Runyu Zhang</strong>, Emma Tegling, Na Li
+                <br> <strong>Runyu Zhang</strong>, Zhaolin Ren, Na Li
                 <br> <em>Transaction on Automatic Control (TAC), 2024</em>
             </li>
             <li>
