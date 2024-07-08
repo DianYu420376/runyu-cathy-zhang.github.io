@@ -34,7 +34,7 @@ Price of Anarchy and Sample Complexity](https://arxiv.org/abs/2304.03840)<br> **
 for Dynamics and Control Conference (L4DC), 2023*
 - [On the Optimal Control of Network LQR with Spatially-exponential Decaying
 Structure](https://arxiv.org/abs/2209.14376)<br>  **Runyu Zhang**, Weiyu Li, Na Li <br> *American Control Conference (ACC), 2023* (Preparing for Journal Submission)
-- [“On the Relationship of Optimal State Feedback and Disturbance Response
+- [On the Relationship of Optimal State Feedback and Disturbance Response
 Controllers](https://arxiv.org/abs/2304.03831)<br>  **Runyu Zhang**, Yang Zheng, Weiyu Li, Na Li <br> *International Federation of Automatic Control (IFAC), 2023*
 - [Policy Optimization for Markov Games: Unified
 Framework and Faster Convergence](https://arxiv.org/abs/2206.02640)<br>  **Runyu Zhang***,  Qinghua Liu*, Huan Wang, Caiming Xiong, Na Li, Yu Bai <br> *Advances in Neural Information Processing Systems (NeurIPS), 2022*
