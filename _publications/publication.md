@@ -4,7 +4,7 @@
 Journal Papers
 -----
 - [On the Optimal Control of Network LQR with Spatially-exponential Decaying
-Structure](https://arxiv.org/abs/2209.14376)<br>  **Runyu Zhang**, Weiyu Li, Na Li <br> *Under Review* 
+Structure](https://arxiv.org/abs/2209.14376)<br>  **Runyu Zhang**, Weiyu Li, Na Li <br> *Automatica (minor revision), 2024* 
 - [Gradient play in stochastic games: stationary points, convergence, and sample complexity
 ](https://arxiv.org/abs/2106.00198)<br>  **Runyu Zhang**, Zhaolin Ren, Na Li <br> *Transactions on Automatic Control (TAC), 2024* 
 - [Adaptive Model Predictive Control with Ensembled
