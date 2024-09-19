@@ -16,7 +16,7 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-<span style="color: #4F81BD;">August 2024</span>  <span>I'm very honored to be selected as <a href="https://risingstars-eecs.mit.edu/"> rising star in EECS 2024</a>!
+<span style="color: #4F81BD;">Aug 2024</span>  <span>I'm very honored to be selected as <a href="https://risingstars-eecs.mit.edu/"> rising star in EECS 2024</a>!
 </span>
 <span style="color: #4F81BD;">June 2024</span>  <span>Check out our new paper: <a href="https://arxiv.org/abs/2406.08844">Equilibrium Selection for Multi-agent Reinforcement Learning</a>!
 </span>
