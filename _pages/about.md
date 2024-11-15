@@ -16,8 +16,7 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-<span style="color: #4F81BD;">Sep 2024</span>  <span> Our paper (one of my favorite works!) <a href="https://arxiv.org/abs/2209.14376">On the Optimal Control of Network LQR with Spatially-exponential Decaying
-Structure</a> is accepted to Automatica! Feel free to check it out! </a>!
+<span style="color: #4F81BD;">Sep 2024</span>  <span> Our paper (one of my favorite works!) <a href="https://arxiv.org/abs/2209.14376">On the Optimal Control of Network LQR with Spatially-exponential Decaying Structure</a> is accepted to Automatica! Feel free to check it out!
 </span>
 <span style="color: #4F81BD;">Aug 2024</span>  <span>I'm very honored to be selected as <a href="https://risingstars-eecs.mit.edu/"> rising star in EECS 2024</a>!
 </span>
