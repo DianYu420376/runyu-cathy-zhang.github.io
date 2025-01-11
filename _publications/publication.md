@@ -3,7 +3,7 @@
 ---
 Preprints
 -----
-- [Equilibrium Selection for Multi-agent Reinforcement Learning: A Unified Framework](https://arxiv.org/abs/2406.08844) <br> **Runyu Zhang**, Jeff Shamma, Na Li <br> *Under Review*
+- [Equilibrium Selection for Multi-agent Reinforcement Learning: A Unified Framework](https://arxiv.org/abs/2406.08844) <br> **Runyu Zhang**, Jeff Shamma, Na Li
 
 Journal Papers
 -----
