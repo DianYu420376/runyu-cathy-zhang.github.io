@@ -1,6 +1,10 @@
 ---
 
 ---
+Preprints
+-----
+- [Equilibrium Selection for Multi-agent Reinforcement Learning: A Unified Framework](https://arxiv.org/abs/2406.08844) <br> **Runyu Zhang**, Jeff Shamma, Na Li <br> *Under Review*
+
 Journal Papers
 -----
 - [On the Optimal Control of Network LQR with Spatially-exponential Decaying
@@ -14,7 +18,6 @@ Control: A Derivative-Free Policy Optimization Approach](https://arxiv.org/abs/1
 
 Conference Papers
 -----
-- [Equilibrium Selection for Multi-agent Reinforcement Learning: A Unified Framework](https://arxiv.org/abs/2406.08844) <br> **Runyu Zhang**, Jeff Shamma, Na Li <br> *Under Review*
 - [Multi-Agent Coverage Control with Transient Behavior Consideration](https://arxiv.org/abs/2404.05995) <br> **Runyu Zhang**, Haitong Ma, Na Li <br> *Learning
 for Dynamics and Control Conference (L4DC), 2024*
 - [Soft Robust MDPs and Risk-Sensitive MDPs: Equivalence, Policy Gradient, and
