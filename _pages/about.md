@@ -16,8 +16,8 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-<span style="color: #4F81BD;">Oct 2024</span>  <span> Our paper on distributed control and reinforcement learning for network system <a href="https://arxiv.org/abs/2410.17221">Scalable Spectral Representations for Multi-agent Reinforcement Learning in Network MDPs
-</a> is available online! Feel free to check it out!
+<span style="color: #4F81BD;">Jan 2025</span>  <span> Our paper on distributed control and reinforcement learning for network system <a href="https://arxiv.org/abs/2410.17221">Scalable Spectral Representations for Multi-agent Reinforcement Learning in Network MDPs
+</a> is accepted to AISTATS 2025! Feel free to check it out!
 </span>
 <span style="color: #4F81BD;">Sep 2024</span>  <span> Our paper (one of my favorite works!) <a href="https://arxiv.org/abs/2209.14376">On the Optimal Control of Network LQR with Spatially-exponential Decaying Structure</a> is accepted to Automatica! Feel free to check it out!
 </span>
