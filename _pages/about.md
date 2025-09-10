@@ -18,7 +18,7 @@ Recent Updates
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
   <span style="color: #4F81BD;">September 2025</span>  <span> Honored to be chosen for the Rising Stars program at the <a href="https://nerc2025.cis.cornell.edu/">2025 Northeast Robotics Colloquium (NERC)</a>. See you in Cornell!
     </span>
-<span style="color: #4F81BD;">April 2025</span>  <span> I won the [MIT Postdoctoral Fellowship for Engineering Excellence](https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/)! 
+<span style="color: #4F81BD;">April 2025</span>  <span> I won the <a href="https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/">MIT Postdoctoral Fellowship for Engineering Excellence</a>! 
   </span>
 <span style="color: #4F81BD;">Jan 2025</span>  <span> Our paper on distributed control and reinforcement learning for network system <a href="https://arxiv.org/abs/2410.17221">Scalable Spectral Representations for Multi-agent Reinforcement Learning in Network MDPs
 </a> is accepted to AISTATS 2025! Feel free to check it out!
