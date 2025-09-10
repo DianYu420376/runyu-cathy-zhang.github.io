@@ -16,7 +16,7 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-  <span style="color: #4F81BD;">September 2025</span>  <span> Honored to be chosen for the Rising Stars program at the [2025 Northeast Robotics Colloquium (NERC)](https://nerc2025.cis.cornell.edu/). See you in Cornell!
+  <span style="color: #4F81BD;">September 2025</span>  <span> Honored to be chosen for the Rising Stars program at the <a href="https://nerc2025.cis.cornell.edu/">2025 Northeast Robotics Colloquium (NERC)</a>. See you in Cornell!
     </span>
 <span style="color: #4F81BD;">April 2025</span>  <span> I won the [MIT Postdoctoral Fellowship for Engineering Excellence](https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/)! 
   </span>
