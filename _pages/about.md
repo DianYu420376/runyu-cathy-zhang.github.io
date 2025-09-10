@@ -16,9 +16,9 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-  <span style="color: #4F81BD;">September 2025</span>  <span> Honored to be chosen for the Rising Stars program at the <a href="https://nerc2025.cis.cornell.edu/">2025 Northeast Robotics Colloquium (NERC)</a>. See you in Cornell!
+  <span style="color: #4F81BD;">Sep 2025</span>  <span> Honored to be chosen for the Rising Stars program at the <a href="https://nerc2025.cis.cornell.edu/">2025 Northeast Robotics Colloquium (NERC)</a>. See you in Cornell!
     </span>
-<span style="color: #4F81BD;">April 2025</span>  <span> I won the <a href="https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/">MIT Postdoctoral Fellowship for Engineering Excellence</a>! 
+<span style="color: #4F81BD;">Apr 2025</span>  <span> I won the <a href="https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/">MIT Postdoctoral Fellowship for Engineering Excellence</a>! 
   </span>
 <span style="color: #4F81BD;">Jan 2025</span>  <span> Our paper on distributed control and reinforcement learning for network system <a href="https://arxiv.org/abs/2410.17221">Scalable Spectral Representations for Multi-agent Reinforcement Learning in Network MDPs
 </a> is accepted to AISTATS 2025! Feel free to check it out!
@@ -27,7 +27,7 @@ Recent Updates
 </span>
 <span style="color: #4F81BD;">Aug 2024</span>  <span>I'm very honored to be selected as <a href="https://risingstars-eecs.mit.edu/"> rising star in EECS 2024</a>!
 </span>
-<span style="color: #4F81BD;">June 2024</span>  <span>Check out our new paper: <a href="https://arxiv.org/abs/2406.08844">Equilibrium Selection for Multi-agent Reinforcement Learning</a>!
+<span style="color: #4F81BD;">Jun 2024</span>  <span>Check out our new paper: <a href="https://arxiv.org/abs/2406.08844">Equilibrium Selection for Multi-agent Reinforcement Learning</a>!
 </span>
 <span style="color: #4F81BD;">Apr 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2404.05995">Multi-Agent Coverage Control with Transient Behavior Consideration
 </a> is accepted to L4DC. The paper provides a provably efficient algorithm for coverage control of multi-robot systems in unknown environments. Feel free to check it out! 
