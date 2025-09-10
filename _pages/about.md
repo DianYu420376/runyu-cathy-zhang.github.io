@@ -30,7 +30,7 @@ Recent Updates
 <span style="color: #4F81BD;">Jun 2024</span>  <span>Check out our new paper: <a href="https://arxiv.org/abs/2406.08844">Equilibrium Selection for Multi-agent Reinforcement Learning</a>!
 </span>
 <span style="color: #4F81BD;">Apr 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2404.05995">Multi-Agent Coverage Control with Transient Behavior Consideration
-</a> is accepted to L4DC. The paper provides a provably efficient algorithm for coverage control of multi-robot systems in unknown environments. Feel free to check it out! 
+</a> is accepted to L4DC. 
 </span>
 <span style="color: #4F81BD;">Feb 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2106.00198">Gradient play in stochastic games: stationary points, convergence, and
 sample complexity</a> is accepted to Transaction of Automatic Control (TAC)! 
