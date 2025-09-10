@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am Runyu (Cathy) Zhang, a sixth year Ph.D. candidate in School of Engineering and Applied Science at Harvard University working with [Prof. Na Li](https://nali.seas.harvard.edu/). Prior to pursuing Ph.D., I earned a B.S. degree in Scientific and Engineering Computing in the Mathematics department at Peking University in 2019. 
+Welcome to my website! I am Runyu (Cathy) Zhang, and I am a [Postdoc for Engineering Excellence](https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/) at MIT and I'm working with [Prof. Asu Ozdaglar](https://asu.mit.edu/) and [Prof. Gioele Zardini](https://zardini.mit.edu/people/prof-gioele-zardini/). I earned my Ph.D. degree at Harvard University, School of Engineering and Applied Sciences, under the supervision of [Prof. Na Li](https://nali.seas.harvard.edu/). Prior to pursuing Ph.D., I earned a B.S. degree in Scientific and Engineering Computing in the Mathematics department at Peking University in 2019. 
 
 My research interest lies in learning, control and decision making in multi-agent systems. The high-level objective is to design scalable, efficient and provable learning/control algorithms for multi-agent systems under challenges such as communication constraints, strategic behavior and model uncertainty. My research sits at the intersection of various domains, utilizing tools from reinforcement learning (RL), game theory, control theory and optimization. As an ultimate goal, my research is dedicated to providing both theoretical insights and engineering tools for AI-enabled multi-agent societal systems design and operation. For more detailed research projects and research interests please refer to the [research](https://dianyu420376.github.io/runyu-cathy-zhang.github.io/research/) tab and [publication](https://dianyu420376.github.io/runyu-cathy-zhang.github.io/publications/) tab.
 
@@ -16,6 +16,10 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
+  <span style="color: #4F81BD;">September 2025</span>  <span> Honored to be chosen for the Rising Stars program at the [2025 Northeast Robotics Colloquium (NERC)](https://nerc2025.cis.cornell.edu/). See you in Cornell!
+    </span>
+<span style="color: #4F81BD;">April 2025</span>  <span> I won the [MIT Postdoctoral Fellowship for Engineering Excellence](https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/)! 
+  </span>
 <span style="color: #4F81BD;">Jan 2025</span>  <span> Our paper on distributed control and reinforcement learning for network system <a href="https://arxiv.org/abs/2410.17221">Scalable Spectral Representations for Multi-agent Reinforcement Learning in Network MDPs
 </a> is accepted to AISTATS 2025! Feel free to check it out!
 </span>
@@ -32,13 +36,6 @@ Recent Updates
 sample complexity</a> is accepted to Transaction of Automatic Control (TAC)! 
 </span>
 <span style="color: #4F81BD;">Jan 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2306.11626">Soft Robust MDPs and Risk-Sensitive MDPs: Equivalence, Policy Gradient, and Sample Complexity</a> is accepted to ICLR.  
-</span>
-<span style="color: #4F81BD;">Jan 2024</span>  <span>Two papers are accepted to the American Control Conference (ACC)! Check them out <a href="https://arxiv.org/abs/2401.16183">here</a> and <a href="https://arxiv.org/abs/2401.10383">here</a>.
-</span>
-<span style="color: #4F81BD;">July 2023</span>  <span> Our paper  <a href="https://arxiv.org/abs/2304.03840">Markov Games with Decoupled Dynamics: Price of Anarchy and Sample Complexity
-</a> is accepted to the Conference on Decision and Control (CDC)!
-</span>
-<span style="color: #4F81BD;">Sep 2022</span>  <span> Two papers on multi-agent RL is accepted to NeurIPS! See you in New Orleans! Check them out <a href="https://arxiv.org/abs/2202.00872">here</a> (Markov potential games) and <a href="https://arxiv.org/abs/2206.02640">here</a> (two-player zero-sum games).
 </span>
 </div>
 
