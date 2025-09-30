@@ -18,6 +18,8 @@ Recent Updates
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
   <span style="color: #4F81BD;">Sep 2025</span>  <span> Our paper <a href="https://arxiv.org/abs/2503.12665">Constrained Optimization From a Control Perspective via Feedback Linearization </a> is accepted to NeurIPS 2025! The paper leverages a control techiques such as feedback linearization to analyze existing methods and design novel constrained optimization solvers. See you in San Diego! Also, check out our <a href="http://arxiv.org/abs/2509.24056">zeroth-order extension</a>, which was the key motivation that sparked this line of research.
     </span>
+  <span style="color: #4F81BD;">Sep 2025</span>  <span> Check out our new paper <a href="https://arxiv.org/abs/2509.24047">Optimism as Risk-Seeking in Multi-Agent Reinforcement Learning</a>. 
+    </span>
   <span style="color: #4F81BD;">Sep 2025</span>  <span> Honored to be chosen for the Rising Stars program at the <a href="https://nerc2025.cis.cornell.edu/">2025 Northeast Robotics Colloquium (NERC)</a>. See you in Cornell!
     </span>
 <span style="color: #4F81BD;">Apr 2025</span>  <span> I won the <a href="https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/">MIT Postdoctoral Fellowship for Engineering Excellence</a>! 
