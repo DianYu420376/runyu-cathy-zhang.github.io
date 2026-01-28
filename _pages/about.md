@@ -16,9 +16,14 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-  <span style="color: #4F81BD;">Sep 2025</span>  <span> Our paper <a href="https://arxiv.org/abs/2503.12665">Constrained Optimization From a Control Perspective via Feedback Linearization </a> is accepted to NeurIPS 2025! The paper leverages a control techiques such as feedback linearization to analyze existing methods and design novel constrained optimization solvers. See you in San Diego! Also, check out our <a href="http://arxiv.org/abs/2509.24056">zeroth-order extension</a>, which was the key motivation that sparked this line of research.
+    <span style="color: #4F81BD;">Jan 2026</span>  <span> Our paper <a href="https://arxiv.org/abs/2509.24047">Optimism as Risk-Seeking in Multi-Agent Reinforcement Learning</a> is accepted to the IEEE Control Systems Letters (L-CSS) and American Control Conference (ACC) 2026. See you in New Orleans!</a>. 
     </span>
-  <span style="color: #4F81BD;">Sep 2025</span>  <span> Check out our new paper <a href="https://arxiv.org/abs/2509.24047">Optimism as Risk-Seeking in Multi-Agent Reinforcement Learning</a>. 
+  <span style="color: #4F81BD;">Dec 2025</span> I was featured in  <a href="https://ieeexplore.ieee.org/document/11274518">IEEE PhDs in Control</a>! Honored to be part of and recognized by the control community.
+    </span>
+  <span style="color: #4F81BD;">Nov 2025</span> Check out our new paper: <a href="https://arxiv.org/abs/2511.13961">FICO: Finite-Horizon Closed-Loop Factorization for Unified Multi-Agent Path Finding
+</a>! FICO reframes multi-agent path finding through a closed-loop control lens and leverages factorization to enable millisecond-start execution at scale, with robustness to real-time uncertainties.
+    </span>
+  <span style="color: #4F81BD;">Sep 2025</span>  <span> Our paper <a href="https://arxiv.org/abs/2503.12665">Constrained Optimization From a Control Perspective via Feedback Linearization </a> is accepted to NeurIPS 2025! The paper leverages a control techiques such as feedback linearization to analyze existing methods and design novel constrained optimization solvers. See you in San Diego! Also, check out our <a href="http://arxiv.org/abs/2509.24056">zeroth-order extension</a>, which was the key motivation that sparked this line of research.
     </span>
   <span style="color: #4F81BD;">Sep 2025</span>  <span> Honored to be chosen for the Rising Stars program at the <a href="https://nerc2025.cis.cornell.edu/">2025 Northeast Robotics Colloquium (NERC)</a>. See you in Cornell!
     </span>
@@ -32,14 +37,6 @@ Recent Updates
 <span style="color: #4F81BD;">Aug 2024</span>  <span>I'm very honored to be selected as <a href="https://risingstars-eecs.mit.edu/"> rising star in EECS 2024</a>!
 </span>
 <span style="color: #4F81BD;">Jun 2024</span>  <span>Check out our new paper: <a href="https://arxiv.org/abs/2406.08844">Equilibrium Selection for Multi-agent Reinforcement Learning</a>!
-</span>
-<span style="color: #4F81BD;">Apr 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2404.05995">Multi-Agent Coverage Control with Transient Behavior Consideration
-</a> is accepted to L4DC. 
-</span>
-<span style="color: #4F81BD;">Feb 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2106.00198">Gradient play in stochastic games: stationary points, convergence, and
-sample complexity</a> is accepted to Transaction of Automatic Control (TAC)! 
-</span>
-<span style="color: #4F81BD;">Jan 2024</span>  <span>Our paper <a href="https://arxiv.org/abs/2306.11626">Soft Robust MDPs and Risk-Sensitive MDPs: Equivalence, Policy Gradient, and Sample Complexity</a> is accepted to ICLR.  
 </span>
 </div>
 
