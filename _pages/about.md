@@ -20,7 +20,7 @@ Recent Updates
     </span>
   <span style="color: #4F81BD;">Dec 2025</span> I was featured in  <a href="https://ieeexplore.ieee.org/document/11274518">IEEE PhDs in Control</a>! Honored to be part of and recognized by the control community.
     </span>
-  <span style="color: #4F81BD;">Nov 2025</span> Check out our new paper: <a href="https://arxiv.org/abs/2511.13961">FICO: Finite-Horizon Closed-Loop Factorization for Unified Multi-Agent Path Finding
+  <span style="color: #4F81BD;">Nov 2025</span> <span>Check out our new paper: <a href="https://arxiv.org/abs/2511.13961">FICO: Finite-Horizon Closed-Loop Factorization for Unified Multi-Agent Path Finding
 </a>! FICO reframes multi-agent path finding through a closed-loop control lens and leverages factorization to enable millisecond-start execution at scale, with robustness to real-time uncertainties.
     </span>
   <span style="color: #4F81BD;">Sep 2025</span>  <span> Our paper <a href="https://arxiv.org/abs/2503.12665">Constrained Optimization From a Control Perspective via Feedback Linearization </a> is accepted to NeurIPS 2025! The paper leverages a control techiques such as feedback linearization to analyze existing methods and design novel constrained optimization solvers. See you in San Diego! Also, check out our <a href="http://arxiv.org/abs/2509.24056">zeroth-order extension</a>, which was the key motivation that sparked this line of research.
