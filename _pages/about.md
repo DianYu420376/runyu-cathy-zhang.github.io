@@ -16,7 +16,7 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-    <span style="color: #4F81BD;">Jan 2026</span>  <span> Our paper <a href="https://arxiv.org/abs/2509.24047">Optimism as Risk-Seeking in Multi-Agent Reinforcement Learning</a> is accepted to the IEEE Control Systems Letters (L-CSS) and American Control Conference (ACC) 2026. See you in New Orleans!</a>. 
+    <span style="color: #4F81BD;">Jan 2026</span>  <span> Our paper <a href="https://arxiv.org/abs/2509.24047">Optimism as Risk-Seeking in Multi-Agent Reinforcement Learning</a> is accepted to the IEEE Control Systems Letters (L-CSS) and American Control Conference (ACC) 2026. See you in New Orleans!. 
     </span>
   <span style="color: #4F81BD;">Dec 2025</span><span> I was featured in  <a href="https://ieeexplore.ieee.org/document/11274518">IEEE PhDs in Control</a>! Honored to be part of and recognized by the control community.
     </span>
