@@ -11,6 +11,8 @@ Welcome to my website! I am Runyu (Cathy) Zhang, and I am a [Postdoc for Enginee
 
 My research interest lies in learning, control and decision making in multi-agent systems. The high-level objective is to design scalable, efficient and provable learning/control algorithms for multi-agent systems under challenges such as communication constraints, strategic behavior and model uncertainty. My research sits at the intersection of various domains, utilizing tools from reinforcement learning (RL), game theory, control theory and optimization. As an ultimate goal, my research is dedicated to providing both theoretical insights and engineering tools for AI-enabled multi-agent societal systems design and operation. For more detailed research projects and research interests please refer to the [research](https://dianyu420376.github.io/runyu-cathy-zhang.github.io/research/) tab and [publication](https://dianyu420376.github.io/runyu-cathy-zhang.github.io/publications/) tab.
 
+**I am on the job market for both academic and industry positions starting as early as fall 2026! Let’s connect. Please email me at runyuzha@mit.edu**
+
 
 
 Recent Updates
