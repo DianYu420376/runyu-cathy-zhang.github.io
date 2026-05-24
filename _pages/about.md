@@ -18,7 +18,13 @@ My research interest lies in learning, control and decision making in multi-agen
 Recent Updates
 ----
 <div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-  <span style="color: #4F81BD;">Apr 2026</span><span> Check out our new paper <a href="https://arxiv.org/abs/2604.02202"> Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization </a>!
+  <span style="color: #4F81BD;">May 2026</span><span> Check out our new paper <a href="https://arxiv.org/abs/2605.18687"> Implementation-Based Incentive Design for Autonomous Mobility-on-Demand and Transit Systems </a>!
+     </span>
+  <span style="color: #4F81BD;">May 2026</span><span> Check out our new paper <a href="https://arxiv.org/abs/2605.08949"> Muon-OGD: Muon-based Spectral Orthogonal Gradient Projection for LLM Continual Learning </a>!
+     </span>
+  <span style="color: #4F81BD;">May 2026</span><span> Check out our new paper <a href="https://arxiv.org/abs/2605.08408"> AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training</a>, where we demonstrate that <a href="https://arxiv.org/abs/2503.12665"> our proposed constrained optimization algorithm</a> works well in physics informed neural networks!
+     </span>
+  <span style="color: #4F81BD;">Apr 2026</span><span> Check out our new paper <a href="https://arxiv.org/abs/2604.02202"> Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization</a>, where we provide a different perspective and an efficient algorithm based on our <a href="http://arxiv.org/abs/2509.24056">prior work</a>!
      </span>
    <span style="color: #4F81BD;">Mar 2026</span><span> I am co-organizing a workshop <a href="https://acc26-mas.github.io/"> Toward Safe and Scalable Multi-Agent Systems: Bridging Control, RL, and Generative AI </a>! at the 2026 American Control Conference. See you in New Orleans, register <a href="https://acc2026.a2c2.org/registration"> here </a>!
      </span>
