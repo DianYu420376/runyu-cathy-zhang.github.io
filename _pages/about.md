@@ -17,40 +17,158 @@ My research interest lies in learning, control and decision making in multi-agen
 
 Recent Updates
 ----
-<div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
-  <span style="color: #4F81BD;">May 2026</span><span> Check out our new paper <a href="https://arxiv.org/abs/2605.18687"> Implementation-Based Incentive Design for Autonomous Mobility-on-Demand and Transit Systems </a>!
-     </span>
-  <span style="color: #4F81BD;">May 2026</span><span> Check out our new paper <a href="https://arxiv.org/abs/2605.08949"> Muon-OGD: Muon-based Spectral Orthogonal Gradient Projection for LLM Continual Learning </a>!
-     </span>
-  <span style="color: #4F81BD;">May 2026</span><span> Check out our new paper <a href="https://arxiv.org/abs/2605.08408"> AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training</a>, where we demonstrate that <a href="https://arxiv.org/abs/2503.12665"> our proposed constrained optimization algorithm</a> works well in physics informed neural networks!
-     </span>
-  <span style="color: #4F81BD;">Apr 2026</span><span> Check out our new paper <a href="https://arxiv.org/abs/2604.02202"> Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization</a>, where we provide a different perspective and an efficient algorithm based on our <a href="http://arxiv.org/abs/2509.24056">prior work</a>!
-     </span>
-   <span style="color: #4F81BD;">Mar 2026</span><span> I am co-organizing a workshop <a href="https://acc26-mas.github.io/"> Toward Safe and Scalable Multi-Agent Systems: Bridging Control, RL, and Generative AI </a>! at the 2026 American Control Conference. See you in New Orleans, register <a href="https://acc2026.a2c2.org/registration"> here </a>!
-     </span>
-    <span style="color: #4F81BD;">Jan 2026</span>  <span> Our paper <a href="https://arxiv.org/abs/2509.24047">Optimism as Risk-Seeking in Multi-Agent Reinforcement Learning</a> is accepted to the IEEE Control Systems Letters (L-CSS) and American Control Conference (ACC) 2026. See you in New Orleans!
-    </span>
-  <span style="color: #4F81BD;">Dec 2025</span><span> I was featured in  <a href="https://ieeexplore.ieee.org/document/11274518">IEEE PhDs in Control</a>! Honored to be part of and recognized by the control community.
-    </span>
-  <span style="color: #4F81BD;">Nov 2025</span> <span>Check out our new paper: <a href="https://arxiv.org/abs/2511.13961">FICO: Finite-Horizon Closed-Loop Factorization for Unified Multi-Agent Path Finding
-</a>! FICO reframes multi-agent path finding through a closed-loop control lens and leverages factorization to enable millisecond-start execution at scale, with robustness to real-time uncertainties.
-    </span>
-  <span style="color: #4F81BD;">Sep 2025</span>  <span> Our paper <a href="https://arxiv.org/abs/2503.12665">Constrained Optimization From a Control Perspective via Feedback Linearization </a> is accepted to NeurIPS 2025! The paper leverages a control techiques such as feedback linearization to analyze existing methods and design novel constrained optimization solvers. See you in San Diego! Also, check out our <a href="http://arxiv.org/abs/2509.24056">zeroth-order extension</a>, which was the key motivation that sparked this line of research.
-    </span>
-  <span style="color: #4F81BD;">Sep 2025</span>  <span> Honored to be chosen for the Rising Stars program at the <a href="https://nerc2025.cis.cornell.edu/">2025 Northeast Robotics Colloquium (NERC)</a>. See you in Cornell!
-    </span>
-<span style="color: #4F81BD;">Apr 2025</span>  <span> I won the <a href="https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/">MIT Postdoctoral Fellowship for Engineering Excellence</a>! 
-  </span>
-<span style="color: #4F81BD;">Jan 2025</span>  <span> Our paper on distributed control and reinforcement learning for network system <a href="https://arxiv.org/abs/2410.17221">Scalable Spectral Representations for Multi-agent Reinforcement Learning in Network MDPs
-</a> is accepted to AISTATS 2025! Feel free to check it out!
-</span>
-<span style="color: #4F81BD;">Sep 2024</span>  <span> Our paper (one of my favorite works!) <a href="https://arxiv.org/abs/2209.14376">On the Optimal Control of Network LQR with Spatially-exponential Decaying Structure</a> is accepted to Automatica! Feel free to check it out!
-</span>
-<span style="color: #4F81BD;">Aug 2024</span>  <span>I'm very honored to be selected as <a href="https://risingstars-eecs.mit.edu/"> rising star in EECS 2024</a>!
-</span>
-<span style="color: #4F81BD;">Jun 2024</span>  <span>Check out our new paper: <a href="https://arxiv.org/abs/2406.08844">Equilibrium Selection for Multi-agent Reinforcement Learning</a>!
-</span>
-</div>
+<div style="display: grid; grid-template-columns: 90px auto; gap: 14px 18px; line-height: 1.6;">
 
+  <span style="color: #4F81BD; font-weight: 700;">May 2026</span>
+  <span>
+    🚀 Excited to share our new paper
+    <a href="https://arxiv.org/abs/2605.18687">
+      Implementation-Based Incentive Design for Autonomous Mobility-on-Demand and Transit Systems
+    </a>!
+    This work studies incentive design for aligning autonomous mobility-on-demand and transit systems with broader system-level objectives.
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">May 2026</span>
+  <span>
+    🚀 Excited to share our new paper
+    <a href="https://arxiv.org/abs/2605.08949">
+      Muon-OGD: Muon-based Spectral Orthogonal Gradient Projection for LLM Continual Learning
+    </a>!
+    This work explores a spectral-geometry-inspired approach to orthogonal gradient projection for continual learning in large language models.
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">May 2026</span>
+  <span>
+    🚀 Excited to share our new paper
+    <a href="https://arxiv.org/abs/2605.08408">
+      AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training
+    </a>!
+    We demonstrate that
+    <a href="https://arxiv.org/abs/2503.12665">
+      our constrained optimization algorithm
+    </a>
+    works well for physics-informed neural networks.
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Apr 2026</span>
+  <span>
+    🚀 Excited to share our new paper
+    <a href="https://arxiv.org/abs/2604.02202">
+      Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization
+    </a>!
+    This work provides a new perspective and an efficient algorithmic framework based on our
+    <a href="http://arxiv.org/abs/2509.24056">
+      prior work
+    </a>.
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Mar 2026</span>
+  <span>
+    🎤 I am excited to co-organize the ACC 2026 workshop
+    <a href="https://acc26-mas.github.io/">
+      Toward Safe and Scalable Multi-Agent Systems: Bridging Control, RL, and Generative AI
+    </a>!
+    See you in New Orleans — register
+    <a href="https://acc2026.a2c2.org/registration">
+      here
+    </a>!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Jan 2026</span>
+  <span>
+    🎉 Excited that our paper
+    <a href="https://arxiv.org/abs/2509.24047">
+      Optimism as Risk-Seeking in Multi-Agent Reinforcement Learning
+    </a>
+    was accepted to IEEE Control Systems Letters (L-CSS) and the American Control Conference (ACC) 2026.
+    See you in New Orleans!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Dec 2025</span>
+  <span>
+    🌟 I was featured in
+    <a href="https://ieeexplore.ieee.org/document/11274518">
+      IEEE PhDs in Control
+    </a>!
+    Honored to be part of and recognized by the control community.
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Nov 2025</span>
+  <span>
+    🚀 Excited to share our new paper
+    <a href="https://arxiv.org/abs/2511.13961">
+      FICO: Finite-Horizon Closed-Loop Factorization for Unified Multi-Agent Path Finding
+    </a>!
+    FICO reframes multi-agent path finding through a closed-loop control lens and leverages factorization to enable millisecond-start execution at scale, with robustness to real-time uncertainties.
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Sep 2025</span>
+  <span>
+    🎉 Thrilled that our paper
+    <a href="https://arxiv.org/abs/2503.12665">
+      Constrained Optimization From a Control Perspective via Feedback Linearization
+    </a>
+    was accepted to NeurIPS 2025!
+    The paper leverages control techniques such as feedback linearization to analyze existing methods and design novel constrained optimization solvers.
+    See you in San Diego!
+    Also, check out our
+    <a href="http://arxiv.org/abs/2509.24056">
+      zeroth-order extension
+    </a>,
+    which was the key motivation that sparked this line of research.
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Sep 2025</span>
+  <span>
+    🌟 Honored to be selected for the Rising Stars program at the
+    <a href="https://nerc2025.cis.cornell.edu/">
+      2025 Northeast Robotics Colloquium (NERC)
+    </a>.
+    See you at Cornell!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Apr 2025</span>
+  <span>
+    🏆 I am honored to receive the
+    <a href="https://engineering.mit.edu/the-mit-postdoctoral-fellowship-program-for-engineering-excellence/">
+      MIT Postdoctoral Fellowship Program for Engineering Excellence
+    </a>!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Jan 2025</span>
+  <span>
+    🎉 Excited that our paper on distributed control and reinforcement learning for network systems,
+    <a href="https://arxiv.org/abs/2410.17221">
+      Scalable Spectral Representations for Multi-agent Reinforcement Learning in Network MDPs
+    </a>,
+    was accepted to AISTATS 2025!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Sep 2024</span>
+  <span>
+    🎉 Excited that our paper — one of my favorite works —
+    <a href="https://arxiv.org/abs/2209.14376">
+      On the Optimal Control of Network LQR with Spatially-Exponential Decaying Structure
+    </a>
+    was accepted to Automatica!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Aug 2024</span>
+  <span>
+    🌟 Very honored to be selected as an
+    <a href="https://risingstars-eecs.mit.edu/">
+      EECS Rising Star 2024
+    </a>!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Jun 2024</span>
+  <span>
+    🚀 Excited to share our new paper
+    <a href="https://arxiv.org/abs/2406.08844">
+      Equilibrium Selection for Multi-agent Reinforcement Learning
+    </a>!
+  </span>
+
+</div>
 
 
