@@ -19,6 +19,61 @@ Recent Updates
 ----
 <div style="display: grid; grid-template-columns: 90px auto; gap: 14px 18px; line-height: 1.6;">
 
+  <span style="color: #4F81BD; font-weight: 700;">Aug 2026</span>
+  <span>
+    🎤 I am excited to give a talk at the
+    <a href="https://sites.google.com/mail.tau.ac.il/aicitiesworkshop/home">
+      Artificially Intelligent Cities Workshop
+    </a>,
+    held at New York University on August 27–29. See you in New York!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Aug 2026</span>
+  <span>
+    🎉 Excited that our paper
+    <a href="https://arxiv.org/abs/2401.10383">
+      Cooperative Multi-Agent Graph Bandits: UCB Algorithm and Regret Analysis
+    </a>
+    was accepted to IEEE Transactions on Automatic Control (TAC)!
+    Congratulations to Phevos and Aryan!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Jul 2026</span>
+  <span>
+    🎉 Excited that our paper
+    <a href="https://arxiv.org/abs/2604.02202">
+      Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization
+    </a>
+    was accepted to the IEEE Conference on Decision and Control (CDC) 2026!
+    This work provides a random-subspace perspective on our
+    <a href="https://arxiv.org/abs/2509.24056">
+      zeroth-order constrained optimization work
+    </a>.
+    See you in Hawaii!
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Jul 2026</span>
+  <span>
+    🎤 We are excited to organize the CDC 2026 workshop
+    <a href="https://cdc26-genai.github.io/">
+      Generative AI Meets Control and Optimization: Theory, Algorithms, and Systems
+    </a>!
+    Join us in Honolulu on December 14—register
+    <a href="https://cdc2026.ieeecss.org/registration">
+      here
+    </a>.
+  </span>
+
+  <span style="color: #4F81BD; font-weight: 700;">Jun 2026</span>
+  <span>
+    🎉 Excited that our paper
+    <a href="https://arxiv.org/abs/2602.12024">
+      Adaptive-Horizon Conflict-Based Search for Closed-Loop Multi-Agent Path Finding
+    </a>
+    was accepted to IEEE Robotics and Automation Letters (RA-L)!
+    Congratulations to Jiarui!
+  </span>
+
   <span style="color: #4F81BD; font-weight: 700;">May 2026</span>
   <span>
     🚀 Excited to share our new paper
@@ -48,18 +103,6 @@ Recent Updates
       our constrained optimization algorithm
     </a>
     works well for physics-informed neural networks.
-  </span>
-
-  <span style="color: #4F81BD; font-weight: 700;">Apr 2026</span>
-  <span>
-    🚀 Excited to share our new paper
-    <a href="https://arxiv.org/abs/2604.02202">
-      Random-Subspace Sequential Quadratic Programming for Constrained Zeroth-Order Optimization
-    </a>!
-    This work provides a new perspective and an efficient algorithmic framework based on our
-    <a href="http://arxiv.org/abs/2509.24056">
-      prior work
-    </a>.
   </span>
 
   <span style="color: #4F81BD; font-weight: 700;">Mar 2026</span>
@@ -170,5 +213,4 @@ Recent Updates
   </span>
 
 </div>
-
 
