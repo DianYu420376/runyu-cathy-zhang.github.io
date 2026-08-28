@@ -12,8 +12,8 @@
 
 .nav-rail {
   display: none;                       // shown only where .sidebar is fixed
-  margin: 20px 0 18px;
-  padding: 16px 0 0;
+  margin: 16px 0 14px;
+  padding: 14px 0 0;
   border-top: 1px solid $rule-2;
 
   ul {
@@ -29,7 +29,7 @@
 
   .nav-rail__item > a {
     display: block;
-    padding: 7px 0 7px 13px;
+    padding: 6px 0 6px 13px;
     margin-left: -13px;
     border-left: 2px solid transparent;
     font-family: $sans-serif;          // Gill Sans, as the showcase labels

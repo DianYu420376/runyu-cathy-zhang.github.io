@@ -184,14 +184,14 @@ a {
     display: flex;
     flex-direction: column;
     align-items: stretch;
-    /* The theme fixes this box but leaves its top to the static position and
-       its height at a flat 100vh, so the box ended 34px below the fold --
-       harmless while the rail is short, but on a laptop window the contact
-       links fall off the bottom with no way to scroll to them. Pin it under
-       the masthead and let it own exactly the rest of the screen. */
-    top: $masthead-height;
-    height: calc(100vh - #{$masthead-height});
-    padding-top: 28px;
+    /* The masthead is visibility:hidden at this width (see above), so there
+       is no bar to sit under -- reserving $masthead-height for it cost 70px
+       of rail and pushed the contact links towards the fold. Start at the top
+       of the screen and own all of it, with the portrait aligned to where the
+       page content begins. */
+    top: 0;
+    height: 100vh;
+    padding-top: 22px;
     padding-right: 26px;
     border-right: 1px solid $rule-2;
     overflow-y: auto;
@@ -210,7 +210,7 @@ a {
   .sidebar .author__avatar {
     display: block;
     width: auto;
-    margin-bottom: 18px;
+    margin-bottom: 14px;
 
     img {
       width: 207px;
@@ -233,8 +233,8 @@ a {
   .sidebar .author__urls-wrapper {
     display: block;
     width: auto;
-    padding-top: 14px;
-    margin-top: 4px;
+    padding-top: 12px;
+    margin-top: 2px;
     border-top: 1px solid $rule-2;
 
     button { display: none; }
@@ -264,11 +264,11 @@ a {
 .sidebar {
   .author__name {
     font-family: $serif;
-    font-size: 1.82em;                  // ~31px
-    /* Set as a two-line nameplate rather than squeezed onto one: at 31px
-       the name measures ~353px, and no sane rail width holds that beside a
-       207px portrait. Wrapping also keeps it safe on a machine without Iowan
-       Old Style, where the fallback is wider still. */
+    /* 26px sets the name on one line inside the 273px rail: 254px in Iowan
+       Old Style, 248px in the Georgia fallback, so it holds either way.
+       Left wrappable rather than nowrap, so an unexpected face folds it
+       instead of running it out of the rail. */
+    font-size: 1.53em;                  // ~26px
     white-space: normal;
     font-weight: 400;
     letter-spacing: -0.014em;
@@ -304,6 +304,8 @@ a {
       text-indent: 0;
       white-space: normal;         // the theme sets nowrap, which clips the address
       overflow-wrap: break-word;
+
+      &:last-child { margin-bottom: 0; }   // no trailing gap at the rail's foot
     }
 
     li > a {
