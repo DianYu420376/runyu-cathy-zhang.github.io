@@ -213,9 +213,9 @@ a {
     margin-bottom: 18px;
 
     img {
-      width: 138px;
-      height: 138px;
-      max-width: 138px;
+      width: 207px;
+      height: 207px;
+      max-width: 207px;
       object-fit: cover;
       border-radius: 0;
       border: 1px solid $rule;
@@ -264,12 +264,16 @@ a {
 .sidebar {
   .author__name {
     font-family: $serif;
-    font-size: 1.21em;                  // ~20.5px; still holds the name on one line
-    white-space: nowrap;
+    font-size: 1.82em;                  // ~31px
+    /* Set as a two-line nameplate rather than squeezed onto one: at 31px
+       the name measures ~353px, and no sane rail width holds that beside a
+       207px portrait. Wrapping also keeps it safe on a machine without Iowan
+       Old Style, where the fallback is wider still. */
+    white-space: normal;
     font-weight: 400;
     letter-spacing: -0.014em;
-    line-height: 1.2;
-    margin: 0 0 9px;
+    line-height: 1.14;
+    margin: 0 0 11px;
     color: $ink;
   }
 
@@ -500,7 +504,7 @@ a {
    gap, and no trough.
    -------------------------------------------------------------------------- */
 
-$rail-width: 285px;
+$rail-width: 300px;
 $rail-gap: 44px;                       // rail to first word
 
 @media screen and (min-width: #{$sidebar-screen-min-width}) {
