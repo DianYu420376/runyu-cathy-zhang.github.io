@@ -35,10 +35,12 @@ IEEE Control Systems Society
 Seminar Organization
 ---
 
+- **Student Host**, MIT Laboratory for Information and Decision Systems (LIDS) Seminar — Lillian Ratliff, May 4, 2026.
+- **Student Host**, MIT LIDS Seminar — Jeff Shamma, *A Control-Theoretic Perspective on Game-Theoretic Learning*, April 21, 2026.
+- **Student Liaison and Host**, MIT LIDS Seminar — Florian Dörfler, *Learning Pipelines for Adaptive Control 2.0*, November 12, 2025.
+<br>Assisted with the speaker's schedule, student meetings, publicity and local arrangements.
 - **Student Co-Organizer**, Harvard Machine Learning Foundations Seminar, Fall 2022 – Fall 2023.
 - **Student Co-Organizer**, Harvard–EEML Student Seminar, Fall 2021 – Spring 2022.
-- **Student Liaison and Host**, MIT Laboratory for Information and Decision Systems (LIDS) Seminar — Florian Dörfler, *Learning Pipelines for Adaptive Control 2.0*, November 12, 2025.
-<br>Assisted with the speaker's schedule, student meetings, publicity and local arrangements.
 
 
 Reviewing
