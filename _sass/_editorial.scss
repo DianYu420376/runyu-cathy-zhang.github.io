@@ -184,7 +184,14 @@ a {
     display: flex;
     flex-direction: column;
     align-items: stretch;
-    padding-top: 34px;
+    /* The theme fixes this box but leaves its top to the static position and
+       its height at a flat 100vh, so the box ended 34px below the fold --
+       harmless while the rail is short, but on a laptop window the contact
+       links fall off the bottom with no way to scroll to them. Pin it under
+       the masthead and let it own exactly the rest of the screen. */
+    top: $masthead-height;
+    height: calc(100vh - #{$masthead-height});
+    padding-top: 28px;
     padding-right: 26px;
     border-right: 1px solid $rule-2;
     overflow-y: auto;
@@ -203,12 +210,12 @@ a {
   .sidebar .author__avatar {
     display: block;
     width: auto;
-    margin-bottom: 14px;
+    margin-bottom: 18px;
 
     img {
-      width: 104px;
-      height: 104px;
-      max-width: 104px;
+      width: 138px;
+      height: 138px;
+      max-width: 138px;
       object-fit: cover;
       border-radius: 0;
       border: 1px solid $rule;
@@ -257,21 +264,21 @@ a {
 .sidebar {
   .author__name {
     font-family: $serif;
-    font-size: 0.88em;                  // sized to hold the full name on one line
+    font-size: 1.21em;                  // ~20.5px; still holds the name on one line
     white-space: nowrap;
     font-weight: 400;
-    letter-spacing: -0.012em;
-    line-height: 1.25;
-    margin: 0 0 7px;
+    letter-spacing: -0.014em;
+    line-height: 1.2;
+    margin: 0 0 9px;
     color: $ink;
   }
 
   .author__bio {
     font-family: $ui-font;
-    font-size: 0.72em;
-    line-height: 1.5;
-    letter-spacing: 0.01em;
-    color: $ink-3;
+    font-size: 0.81em;
+    line-height: 1.52;
+    letter-spacing: 0.005em;
+    color: $ink-2;                      // was $ink-3: too faint once it is this size
     margin: 0;
   }
 
@@ -284,11 +291,11 @@ a {
       display: flex;
       align-items: baseline;
       font-family: $ui-font;
-      font-size: 0.7em;
-      letter-spacing: 0.02em;
+      font-size: 0.79em;
+      letter-spacing: 0.012em;
       line-height: 1.5;
       color: $ink-3;
-      margin-bottom: 6px;
+      margin-bottom: 8px;
       padding: 0;
       text-indent: 0;
       white-space: normal;         // the theme sets nowrap, which clips the address
@@ -300,6 +307,11 @@ a {
       align-items: baseline;
       flex: 1 1 auto;
       min-width: 0;                // let a long link wrap rather than overflow
+      /* The theme pads these anchors and gives them a bottom margin, which
+         made the link rows 10px taller than the plain ones beside them. The
+         row spacing belongs to the li. */
+      margin: 0;
+      padding: 0;
       color: $ink-2;
       text-decoration: none;
       border-bottom: none;
@@ -313,9 +325,9 @@ a {
        6px against the envelope's 15px, so every row started at a different
        indent. Pin them all to one box instead. */
     i {
-      flex: 0 0 14px;
-      width: 14px;
-      margin-right: 8px;
+      flex: 0 0 16px;
+      width: 16px;
+      margin-right: 9px;
       padding-right: 0;            // overrides .icon-pad-right
       font-size: 1.05em;
       line-height: inherit;
