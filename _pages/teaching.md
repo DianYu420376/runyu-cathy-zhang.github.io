@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
@@ -17,22 +17,42 @@ Teaching Experience
 <br> Comments: <em> Cathy is a great TF and always super helpful. </em>
 
 
-
-Mentorship
+Guest Lectures and Tutorials
 ---
-- Johan Olsson (Lund Univerisity, Visiting Master student, 2023) <br>
-Project: Distributed reinforcement learning design for networked systems (paper accepted to ACC 2023)
-- Phevos Paschalidis, Aryan Naveen (Harvard College, 2023 - 2024)
-<br>Project: Algorithm design for multi-agent graph bandit problem (paper accepted to ACC 2023, preparing
-journal submission to TAC)
+- **Invited Tutorial Lecturer**, UT Austin Game Theory Summer School, August 13, 2026.
+- **Guest Lecturer**, MIT Artificial Intelligence Accelerator and U.S. Air Force Test Pilot School Workshop, Massachusetts Institute of Technology, August 7, 2026.
+- **Guest Lecturer**, MIT System Design and Management Seminar, Massachusetts Institute of Technology, February 18, 2026.
+- **Guest Lecturer**, *Advanced Topics in Machine Learning* (Prof. Bo Dai), Georgia Institute of Technology, October 16, 2024.
+<br>Topic: distributed learning and control in networked multi-agent systems.
 
-Services
+
+Research Mentoring and Student Supervision
 ---
 
-- Reviewer for Advances in Neural Information Processing Systems (NeurIPS), Artificial Intelligence and Statistics
-(AISTATS), IEEE Trans. Automatic Control (TAC), Automatica, IEEE Intelligent Systems, Systems and Control
-Letters, Dynamic Games and Applications (DGAA), Learning for Dynamics and Control Conference (L4DC),
-etc.
-- Guest Speaker and graduate student panelist for Harvard Women in Engineering & CS Event.
-- Student co-organizer of Harvard Machine Learning Foundations Seminar Series (2022 Fall - 2023 Fall)
-- Student co-organizer of Harvard-EEML student seminar (2021 Fall - 2022 Spring).
+### At Harvard University
+
+- **Phevos Paschalidis**, Harvard College, 2023–2024
+- **Aryan Naveen**, Harvard College, 2023–2024
+<br>Project: Algorithm design for the multi-agent graph bandit problem (paper accepted to ACC 2023, preparing journal submission to TAC)
+- **Johan Olsson**, visiting master's student from Lund University, 2023
+<br>Project: Distributed reinforcement learning design for networked systems (paper accepted to ACC 2023)
+
+### At MIT
+
+- **Jiarui Li**, PhD student, MIT Civil and Environmental Engineering, 2025–present
+- **Xinling Li**, PhD student, MIT Transportation, 2025–present
+- **Yujun Huang**, PhD student, MIT Civil and Environmental Engineering
+- **Yubo Cai**, PhD student, MIT Computational Science and Engineering
+- **Riccardo Fiorista**, graduate student, MIT Transportation
+- **Karan Mahesh**, graduate student, MIT Mechanical Engineering
+- **Augusto Mondelli**, visiting master's student from ETH Zürich
+- **Florian Lercher**, visiting master's student from TU Munich
+- **Raphael Karmalker**, visiting master's student, MIT Energy Initiative
+- **Zeina Rmaile**, MIT Summer Research Program intern and Georgia Institute of Technology undergraduate, Summer 2026
+
+### Outside Harvard and MIT
+
+- **Mingjia He**, PhD student, ETH Zürich, 2025–present
+- **Binghang Lu**, PhD student, Purdue University, 2026–present
+- **Yuze Ge**, master's student, School of Data Science, Fudan University, 2026–present
+- **Zheyuan Deng**, master's student, Brown University, 2026–present

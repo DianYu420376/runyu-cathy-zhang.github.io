@@ -13,8 +13,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching and Services"
-    url: /teaching/    
+  - title: "Teaching and Mentoring"
+    url: /teaching/
+
+  - title: "Services"
+    url: /services/
 
   - title: "CV"
     url: /files/cathy-cv.pdf
