@@ -1,0 +1,83 @@
+---
+# Loaded after assets/showcase/*.css so plain source order settles every
+# conflict -- no specificity games against generated selectors.
+---
+
+@import "vendor/breakpoint/breakpoint";
+@import "variables";
+
+/* ==========================================================================
+   SHOWCASE <-> SITE integration
+   ========================================================================== */
+
+#showcase-root {
+
+  /* Its section nav is sticky. Clear the fixed top bar where that bar is
+     still shown; once the rail takes over, pin it to the top of the window. */
+  #nav {
+    top: $masthead-height;
+    background: rgba(244, 241, 232, 0.93);
+
+    @media screen and (min-width: #{$sidebar-screen-min-width}) {
+      top: 0;
+    }
+  }
+
+  /* The name is already in the rail immediately to the left of this bar. */
+  #nav .me {
+    display: none;
+  }
+
+  /* --------------------------------------------------------------------
+     Neutralise the theme's bare element rules.
+
+     Every showcase rule is scoped under #showcase-root, so it outranks the
+     theme (0-0-1) wherever the showcase has an opinion. Where it has none,
+     the theme still reaches in -- `p` picks up margin-bottom: 1.3em,
+     `figure` becomes a flex container, `button` inherits a font size. These
+     restore the browser defaults the showcase was designed against.
+
+     :where() contributes no specificity, so each rule lands at exactly
+     1-0-0: above the theme's element selectors, below every showcase rule.
+     -------------------------------------------------------------------- */
+  :where(p) {
+    margin: 1em 0;
+  }
+
+  :where(figure) {
+    display: block;
+    margin: 1em 40px;
+  }
+
+  :where(figure) :where(img) {
+    margin-bottom: 0;
+  }
+
+  :where(button) {
+    font-size: 13.3333px;
+    font-family: inherit;
+  }
+
+  :where(h1, h2, h3, h4, h5, h6) {
+    margin: 0;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+
+  :where(ul, ol, dl, blockquote, table, pre) {
+    margin: 1em 0;
+    padding-left: 40px;
+  }
+
+  :where(blockquote) {
+    padding: 0;
+    border-left: 0;
+    font-style: normal;
+  }
+
+  :where(a) {
+    border-bottom: none;
+    text-decoration: none;
+  }
+}

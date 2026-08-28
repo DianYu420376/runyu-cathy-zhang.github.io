@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% comment %}
+  The research showcase. It brings its own complete design system, so it is
+  deliberately NOT wrapped in .archive or .page__content -- those carry the
+  theme's typography and would fight it. The stylesheets are scoped under
+  #showcase-root (see research-showcase/sync-to-site.py), which both confines
+  them to this column and lifts their specificity above the theme's bare
+  element rules.
+
+  No page__title here either: the showcase renders its own hero heading.
+{% endcomment %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="showcase-main">
+    {% include showcase.html %}
+  </div>
+</div>

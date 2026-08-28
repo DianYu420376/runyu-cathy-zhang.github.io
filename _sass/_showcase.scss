@@ -1,0 +1,27 @@
+/* ==========================================================================
+   RESEARCH SHOWCASE -- integration only
+   --------------------------------------------------------------------------
+   The showcase's own styling lives in assets/showcase/, generated and scoped
+   under #showcase-root by research-showcase/sync-to-site.py. Nothing here
+   restyles it; these rules only seat it in the site's column grid and settle
+   the two places where it and the theme chrome would otherwise overlap.
+   ========================================================================== */
+
+.showcase-main {
+  margin-bottom: 2em;
+
+  /* same column as .archive, so every page's content starts on one line --
+     but without .archive's `a { text-decoration: underline }`, which would
+     underline every link in the showcase. */
+  @include breakpoint($medium) {
+    @include span(12 of 12);
+  }
+
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+  }
+}
+
+/* Everything that has to override the generated showcase stylesheets lives
+   in assets/css/showcase-integration.scss, which is loaded after them. */

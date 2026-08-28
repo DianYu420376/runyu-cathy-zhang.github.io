@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : "Iowan Old Style", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+$sans-serif                 : "Gill Sans", "Gill Sans MT", Calibri, ui-sans-serif, -apple-system, "Segoe UI", sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -28,8 +28,8 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$global-font-family         : $serif;
+$header-font-family         : $serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -61,14 +61,25 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+/* Showcase palette -- these are the research showcase's design tokens, so the
+   site and the showcase page read as one publication rather than two sites. */
+$paper                      : #f4f1e8;   // --paper
+$panel                      : #fdfcf8;   // --panel
+$ink                        : #15130f;   // --ink
+$ink-2                      : #4b463d;   // --ink2
+$ink-3                      : #867f71;   // --ink3
+$rule                       : #cec7b6;   // --rule
+$rule-2                     : #e2dccd;   // --rule2
+$accent                     : #7a2e22;   // --accent
 
-$primary-color              : #7a8288;
+$body-color                 : $paper;
+$background-color           : $paper;
+$code-background-color      : $panel;
+$text-color                 : $ink;
+$border-color               : $rule-2;
+$primary-color              : $ink-3;
+$code-background-color-dark : $light-gray;
+
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -102,11 +113,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $accent;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : $ink-2;
+$masthead-link-color-hover  : $accent;
 
 
 /*
