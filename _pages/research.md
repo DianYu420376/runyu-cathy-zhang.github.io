@@ -1,9 +1,14 @@
 ---
 layout: archive
 title: "Research Topics"
-permalink: /research-archive/
+permalink: /research/
 author_profile: true
 ---
+
+<p class="research-statement-link">
+  <a href="{{ site.url }}{{ site.baseurl }}/research/statement/">Read my research statement as a webpage &rarr;</a>
+  <span>An illustrated walk-through of the questions behind the work below.</span>
+</p>
 
 Topic 1: Distributed Control of Network Systems
 ----

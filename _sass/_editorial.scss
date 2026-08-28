@@ -275,36 +275,240 @@ a {
     margin: 0;
   }
 
+  /* Two shapes share this list: plain facts (<i> + text) and links
+     (<a> wrapping <i> + text). Both are laid out as a fixed icon column
+     beside a text column, so every row starts on the same vertical line and
+     a long address wraps under itself instead of under the icon. */
   .author__urls {
     li {
+      display: flex;
+      align-items: baseline;
       font-family: $ui-font;
       font-size: 0.7em;
       letter-spacing: 0.02em;
-      line-height: 1.45;
+      line-height: 1.5;
       color: $ink-3;
-      margin-bottom: 4px;
-      padding: 0 0 0 17px;
-      /* The theme sets nowrap, which clips the address against the rail's
-         edge. Wrap instead, with the runover hanging under the text rather
-         than under the icon. */
-      white-space: normal;
-      overflow-wrap: anywhere;
-      text-indent: -17px;
+      margin-bottom: 6px;
+      padding: 0;
+      text-indent: 0;
+      white-space: normal;         // the theme sets nowrap, which clips the address
+      overflow-wrap: break-word;
     }
 
-    a {
+    li > a {
+      display: flex;
+      align-items: baseline;
+      flex: 1 1 auto;
+      min-width: 0;                // let a long link wrap rather than overflow
       color: $ink-2;
       text-decoration: none;
-      border-bottom: 1px solid transparent;
+      border-bottom: none;
 
-      &:hover {
-        color: $accent;
-        border-bottom-color: rgba($accent, 0.4);
-      }
+      &:hover { color: $accent; }
+      &:hover .author__urls-label { border-bottom-color: rgba($accent, 0.4); }
     }
 
-    .fa, .fas, .fab, .ai {
+    /* Font Awesome only reserves a fixed advance for .fa-fw, and the profile
+       markup applies it unevenly -- the pin and the scholar cap come out at
+       6px against the envelope's 15px, so every row started at a different
+       indent. Pin them all to one box instead. */
+    i {
+      flex: 0 0 14px;
+      width: 14px;
+      margin-right: 8px;
+      padding-right: 0;            // overrides .icon-pad-right
+      font-size: 1.05em;
+      line-height: inherit;
+      text-align: center;
       color: $ink-3;
     }
+
+    .author__urls-label {
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.15s ease;
+    }
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Pointer from the Research page to the showcase. Set as a standing card
+   rather than a sentence, so it reads as a door out of the page and not as
+   another line of prose.
+   -------------------------------------------------------------------------- */
+
+.research-statement-link {
+  clear: both;
+  margin: 0 0 2em;
+  padding: 0.85em 1.1em;
+  border: 1px solid $rule-2;
+  border-left: 3px solid $accent;
+  background: $panel;
+
+  a {
+    display: block;
+    font-family: $sans-serif;
+    font-size: 0.92em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: $accent;
+    text-decoration: none;
+
+    &:hover { text-decoration: underline; }
+  }
+
+  span {
+    display: block;
+    margin-top: 0.25em;
+    font-size: 0.86em;
+    color: $ink-3;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   FIGURES IN PAGE CONTENT
+
+   These pages are hand-written HTML, authored against a white page: inline
+   `width` in pixels, inline `float`, inline `margin-left`. On the editorial
+   paper two things go wrong. The images carry their own white grounds, which
+   read as torn patches against the cream. And the widths were picked one at a
+   time -- 600px, 450px, 300px -- so no two topics share a rhythm.
+
+   Both are corrected here rather than in the markup, which is the author's
+   and stays untouched. Overriding an inline style needs !important; that is
+   the only reason it appears below.
+   -------------------------------------------------------------------------- */
+
+.page__content,
+.archive {
+  /* A white mount under every figure. Images whose own ground is already
+     white now sit inside an intentional card instead of a torn edge, and
+     line art on transparency gets the same ground as its neighbours. */
+  img {
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 1px solid $rule-2;
+    padding: 10px;
+  }
+
+  /* Animations are their own frame -- padding round a GIF reads as a bug. */
+  img[src$=".gif"] {
+    padding: 6px;
+  }
+}
+
+/* Topic illustrations: authored as a floated block of whatever width the
+   image happened to be. Pinned to one proportion so each topic opens the
+   same way and the prose beside it keeps a readable measure. */
+.archive > div[style*="float"] {
+  max-width: 42%;
+  margin: 0.25em 26px 1.1em 0 !important;
+
+  img {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  /* Too narrow to set text beside: let the figure take the measure. */
+  @media screen and (max-width: 40em) {
+    float: none !important;
+    max-width: 100%;
+    margin: 0 0 1.2em !important;
+  }
+}
+
+/* Selected-publication rows: thumbnail beside its citation. The inline
+   margin-left varies from 0 to 50px between rows; one gap replaces it. */
+.archive > div[style*="flex"] {
+  gap: 24px;
+  margin-bottom: 1.4em;
+
+  > img {
+    flex: 0 0 200px;
+    width: 200px !important;
+    align-self: flex-start;
+  }
+
+  > div {
+    flex: 1 1 auto;
+    min-width: 0;
+    margin-left: 0 !important;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.1em;
+  }
+
+  @media screen and (max-width: 40em) {
+    display: block !important;
+
+    > img {
+      width: 200px !important;
+      margin-bottom: 0.8em;
+    }
+  }
+}
+
+/* The topic illustration floats, and nothing in the markup ever clears it.
+   When a topic's paragraph is shorter than its figure is tall -- Topic 2,
+   where the figure runs 312px against five lines of prose -- the float is
+   still live when "Selected publications:" arrives, so the heading and the
+   rows beneath it get pushed into the gutter beside the image. Start every
+   heading and every publication row on a clean line. */
+.archive {
+  h1, h2, h3, h4, h5, h6 {
+    clear: both;
+  }
+
+  > div[style*="flex"] {
+    clear: both;
+  }
+}
+
+/* A measure, not a column. The theme's grid hands the content 1035px at a
+   1280px viewport, which at this size and leading is about 110 characters a
+   line -- roughly half again the width the eye tracks comfortably. The
+   showcase sets its own text in 940px for the same reason. */
+.page__content,
+.archive {
+  max-width: 880px;
+}
+
+/* --------------------------------------------------------------------------
+   THE COLUMN GRID
+
+   The theme gives the rail 2 of 12 columns -- capped at 250px -- and then
+   indents the content by another half column on top of the gutter. At 1680px
+   that opens a 116px trough between the navigation and the first word, while
+   the rail itself is too narrow to hold "Teaching and Services" without
+   crowding.
+
+   Above the width where the rail is fixed, the float grid is replaced by a
+   plain fixed rail plus an offset content column: a wider rail, one measured
+   gap, and no trough.
+   -------------------------------------------------------------------------- */
+
+$rail-width: 285px;
+$rail-gap: 44px;                       // rail to first word
+
+@media screen and (min-width: #{$sidebar-screen-min-width}) {
+  /* .sidebar.sticky above already sets the rail's padding and its right
+     rule; matching that specificity here keeps the width in the same place
+     rather than in a rule the next reader has to go looking for. */
+  .sidebar,
+  .sidebar.sticky {
+    width: $rail-width;
+    max-width: $rail-width;
+  }
+
+  .archive,
+  .page,
+  .showcase-main {
+    float: none;
+    width: auto;
+    margin-left: $rail-width + $rail-gap;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 }

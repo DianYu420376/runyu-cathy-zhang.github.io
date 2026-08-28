@@ -2,8 +2,13 @@
   Vertical site navigation for the left rail. Same source of truth as the
   masthead -- _data/navigation.yml -- so a tab added there appears in both
   places and the two can never drift apart.
+
+  An entry may carry `children`. They are revealed only while that section is
+  the one being read: either its own page is open, or one of its children is.
 {% endcomment %}
 {% include base_path %}
+
+{% assign here = page.url | append: '/' | replace: '//', '/' %}
 
 <nav class="nav-rail" aria-label="Site sections">
   <ul>
@@ -13,14 +18,33 @@
       {% else %}
         {% assign domain = base_path %}
       {% endif %}
-      {% comment %} /research/ and /research must both count as current {% endcomment %}
-      {% assign here = page.url | append: '/' | replace: '//', '/' %}
       {% assign there = link.url | append: '/' | replace: '//', '/' %}
       {% assign is_pdf = link.url | downcase | slice: -4, 4 %}
+
+      {% comment %} open when this tab, or any of its children, is the page {% endcomment %}
+      {% assign in_section = false %}
+      {% if here == there %}{% assign in_section = true %}{% endif %}
+      {% for child in link.children %}
+        {% assign child_url = child.url | append: '/' | replace: '//', '/' %}
+        {% if here == child_url %}{% assign in_section = true %}{% endif %}
+      {% endfor %}
+
       <li class="nav-rail__item{% if here == there %} nav-rail__item--current{% endif %}">
         <a href="{{ domain }}{{ link.url }}"
            {% if here == there %}aria-current="page"{% endif %}
            {% if is_pdf == '.pdf' %}target="_blank" rel="noopener"{% endif %}>{{ link.title }}</a>
+
+        {% if link.children and in_section %}
+          <ul class="nav-rail__children">
+            {% for child in link.children %}
+              {% assign child_url = child.url | append: '/' | replace: '//', '/' %}
+              <li class="nav-rail__item nav-rail__item--child{% if here == child_url %} nav-rail__item--current{% endif %}">
+                <a href="{{ base_path }}{{ child.url }}"
+                   {% if here == child_url %}aria-current="page"{% endif %}>{{ child.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
