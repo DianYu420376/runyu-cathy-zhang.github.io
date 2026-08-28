@@ -13,14 +13,13 @@ Conference and Workshop Organization
 
 - **Publications Co-Chair**, 2027 Conference on Learning for Dynamics and Control (L4DC), KTH Royal Institute of Technology, Stockholm, Sweden, June 30 – July 2, 2027.
 - **Student Activities Chair**, 2027 IEEE International Conference on Intelligent Transportation Systems (ITSC), Boston, Massachusetts, September 21–24, 2027.
-- **Session Chair**, *Generative AI Meets Control and Optimization: Theory, Algorithms, and Systems*, 2026 IEEE Conference on Decision and Control (CDC), Honolulu, December 2026.
 
 ### Workshop Organization
 
+- **Organizer and Session Chair**, [*Generative AI Meets Control and Optimization: Theory, Algorithms, and Systems*](https://cdc26-genai.github.io/), workshop at the 2026 IEEE Conference on Decision and Control, Honolulu, Hawaii, December 14, 2026.
+<br>Organized with Jiawei Zhang and Asuman Ozdaglar.
 - **Co-Organizer**, [*Toward Safe and Scalable Multi-Agent Systems: Bridging Control, Reinforcement Learning, and Generative AI*](https://acc26-mas.github.io/), workshop at the 2026 American Control Conference, New Orleans, Louisiana, May 26, 2026.
-<br>Co-organized with Gioele Zardini and Na Li.
-- **Co-Organizer**, [*Generative AI Meets Control and Optimization: Theory, Algorithms, and Systems*](https://cdc26-genai.github.io/), workshop at the 2026 IEEE Conference on Decision and Control, Honolulu, Hawaii, December 14, 2026.
-<br>Co-organized with Jiawei Zhang and Asuman Ozdaglar.
+<br>Organized with Gioele Zardini and Na Li.
 
 
 [IEEE CSS Next Generation Committee (NextCom)](https://sites.google.com/view/css-nextcom)
