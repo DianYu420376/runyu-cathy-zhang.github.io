@@ -29,7 +29,7 @@ Conference and Workshop Organization
 - **Activities Co-Chair**, 2026–present.
 - **Member**, General Activities Committee, Spring 2025–present.
 - Co-organized the **NextCom Jazz Riverboat Cruise** at the 2026 American Control Conference, New Orleans, May 27, 2026 — a 150-person evening of conversation, dinner and live jazz on the Mississippi River for early-career researchers.
-- Designed a reusable flyer template that gave the committee a consistent, welcoming visual identity across its events.
+- Made a reusable PowerPoint flyer template for the committee, so announcing a NextCom event is a quick edit rather than a design project — and everything we put out looks like it belongs together.
 
 
 Seminar Organization
