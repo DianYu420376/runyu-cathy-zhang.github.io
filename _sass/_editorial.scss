@@ -530,3 +530,20 @@ $rail-gap: 44px;                       // rail to first word
     padding-right: 0;
   }
 }
+
+/* A link that *is* a heading. The body-text hairline is sized for 17px prose
+   and reads as a heavy rule when it runs the width of a 23px heading, so it
+   is held back until hover. */
+.page__content,
+.archive {
+  h1, h2, h3, h4, h5, h6 {
+    a:not(.btn) {
+      border-bottom-color: transparent;
+
+      &:hover,
+      &:focus {
+        border-bottom-color: rgba($accent, 0.45);
+      }
+    }
+  }
+}

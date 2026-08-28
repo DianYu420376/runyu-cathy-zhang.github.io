@@ -23,7 +23,6 @@ Guest Lectures and Tutorials
 - **Guest Lecturer**, MIT Artificial Intelligence Accelerator and U.S. Air Force Test Pilot School Workshop, Massachusetts Institute of Technology, August 7, 2026.
 - **Guest Lecturer**, MIT System Design and Management Seminar, Massachusetts Institute of Technology, February 18, 2026.
 - **Guest Lecturer**, *Advanced Topics in Machine Learning* (Prof. Bo Dai), Georgia Institute of Technology, October 16, 2024.
-<br>Topic: distributed learning and control in networked multi-agent systems.
 
 
 Research Mentoring and Student Supervision
@@ -54,5 +53,5 @@ Research Mentoring and Student Supervision
 
 - **Mingjia He**, PhD student, ETH Zürich, 2025–present
 - **Binghang Lu**, PhD student, Purdue University, 2026–present
-- **Yuze Ge**, master's student, School of Data Science, Fudan University, 2026–present
 - **Zheyuan Deng**, master's student, Brown University, 2026–present
+- **Yuze Ge**, master's student, School of Data Science, Fudan University, 2026–present

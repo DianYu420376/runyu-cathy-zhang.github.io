@@ -23,12 +23,12 @@ Conference and Workshop Organization
 <br>Co-organized with Jiawei Zhang and Asuman Ozdaglar.
 
 
-IEEE Control Systems Society
+[IEEE CSS Next Generation Committee (NextCom)](https://sites.google.com/view/css-nextcom)
 ---
 
-- **Activities Co-Chair**, IEEE CSS Next Generation Committee (NextCom), 2026–present.
-- **Member**, IEEE CSS NextCom General Activities Committee, Spring 2025–present.
-- Co-organized the **IEEE CSS NextCom Jazz Riverboat Cruise** at the 2026 American Control Conference, New Orleans, May 27, 2026 — a 150-person evening of conversation, dinner and live jazz on the Mississippi River for early-career researchers.
+- **Activities Co-Chair**, 2026–present.
+- **Member**, General Activities Committee, Spring 2025–present.
+- Co-organized the **NextCom Jazz Riverboat Cruise** at the 2026 American Control Conference, New Orleans, May 27, 2026 — a 150-person evening of conversation, dinner and live jazz on the Mississippi River for early-career researchers.
 - Designed a reusable flyer template that gave the committee a consistent, welcoming visual identity across its events.
 
 
