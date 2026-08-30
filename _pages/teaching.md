@@ -22,6 +22,7 @@ Guest Lectures and Tutorials
 - **Invited Tutorial Lecturer**, UT Austin Game Theory Summer School, August 13, 2026.
 - **Guest Lecturer**, MIT Artificial Intelligence Accelerator and U.S. Air Force Test Pilot School Workshop, Massachusetts Institute of Technology, August 7, 2026.
 - **Guest Lecturer**, MIT System Design and Management Seminar, Massachusetts Institute of Technology, February 18, 2026.
+- **Guest Lecturer**, *An Introductory Lecture on Systems and Control*, undergraduate lecture, Nanyang Technological University, Singapore, March 4, 2025.
 - **Guest Lecturer**, *Advanced Topics in Machine Learning* (Prof. Bo Dai), Georgia Institute of Technology, October 16, 2024.
 
 

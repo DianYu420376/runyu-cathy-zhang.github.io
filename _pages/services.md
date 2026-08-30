@@ -60,6 +60,7 @@ Outreach and Public Engagement
 
 ### Lightning Talks and Recruitment
 
+- **Speaker**, MIT Civil and Environmental Engineering Annual Research Day, Massachusetts Institute of Technology, March 9, 2026.
 - **Speaker**, SEAS Lightning Talks: Ideas for Societal Impact, Harvard John A. Paulson School of Engineering and Applied Sciences, February 28, 2024.
 - **Speaker**, Harvard SEAS Research Showcase, Harvard University, March 8, 2022.
 - **Speaker**, Harvard Electrical Engineering Open House Teaser Talk, March 7, 2022.
